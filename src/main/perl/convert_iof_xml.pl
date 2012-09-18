@@ -35,6 +35,7 @@ foreach my $classn ( @classes ) {
 	my @parsed_persons;
 
 	my %splits;
+	my @splits_q25;
 
 	foreach my $pn (@persons) {
 	        my %person;
@@ -67,6 +68,7 @@ foreach my $classn ( @classes ) {
 		
 		$person{FamilyName} = $fn;
 		$person{GivenName} = $gn;
+		$person{Name} = "$fn $gn";
 		$person{Club} = $club;
 		$person{Starttime} = $starttime;
 		$person{Result} = $result;
@@ -85,8 +87,19 @@ foreach my $classn ( @classes ) {
 	  print "Leg $legname\n";
 	  my ($best, $avg25, $avg50, $avg) = find25avg($splits{$legname});
 	  print "$best - $avg25 - $avg50, $avg\n";
+	  push @splits_q25, $avg25;
+	}
+
+	foreach my $p (@parsed_persons) {
+	    print "$p->{Name}\n";
+	    my @sp = @{$p->{Splits}};
+	    for (my $i = 0; $i<scalar(@sp); $i++) {
+		printf ("%d - %d => %3f %\n", $sp[$i],$splits_q25[$i],
+			100.0*$splits_q25[$i]/$sp[$i]);
+	    }
 	}
 	exit;
+
 }
 
 sub find25avg {
