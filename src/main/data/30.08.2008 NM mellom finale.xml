@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -368,7 +368,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Håvard Lucasen Ås-UMB Orientering</Given>
+<Given sequence="1">HÃ¥vard Lucasen Ã…s-UMB Orientering</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -486,7 +486,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Øystein Kvaal Østerbø Wing OK</Given>
+<Given sequence="1">Ã˜ystein Kvaal Ã˜sterbÃ¸ Wing OK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -840,7 +840,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Øystein Pettersen Kristiansand OK</Given>
+<Given sequence="1">Ã˜ystein Pettersen Kristiansand OK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1076,7 +1076,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Bjørn Eriksen Halden SK</Given>
+<Given sequence="1">BjÃ¸rn Eriksen Halden SK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1194,7 +1194,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Torbjørn Sagberg Tyrving IL</Given>
+<Given sequence="1">TorbjÃ¸rn Sagberg Tyrving IL</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1312,7 +1312,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Olav Lundanes Østmarka OK</Given>
+<Given sequence="1">Olav Lundanes Ã˜stmarka OK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1430,7 +1430,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Jim Øystein Nybråten Tyrving IL</Given>
+<Given sequence="1">Jim Ã˜ystein NybrÃ¥ten Tyrving IL</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1666,7 +1666,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Magne Dæhli Løten O-Lag</Given>
+<Given sequence="1">Magne DÃ¦hli LÃ¸ten O-Lag</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1784,7 +1784,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Tue Lassen Bækkelagets SK</Given>
+<Given sequence="1">Tue Lassen BÃ¦kkelagets SK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1902,7 +1902,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Øyvind Helgerud Halden SK</Given>
+<Given sequence="1">Ã˜yvind Helgerud Halden SK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -2020,7 +2020,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Øyvind Prefontaine Lund NTNUI</Given>
+<Given sequence="1">Ã˜yvind Prefontaine Lund NTNUI</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -2256,7 +2256,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Jarl Magnus Berge Søgne Og Songdalen Ok</Given>
+<Given sequence="1">Jarl Magnus Berge SÃ¸gne Og Songdalen Ok</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -2374,7 +2374,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Mikkel Lund Bækkelagets SK</Given>
+<Given sequence="1">Mikkel Lund BÃ¦kkelagets SK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -2964,7 +2964,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Øystein Kristiansen Nordreisa IL</Given>
+<Given sequence="1">Ã˜ystein Kristiansen Nordreisa IL</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -3200,7 +3200,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Håvard Tveite Ås-UMB Orientering</Given>
+<Given sequence="1">HÃ¥vard Tveite Ã…s-UMB Orientering</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -3672,7 +3672,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Per Harald Havnen Johansen Østmarka OK</Given>
+<Given sequence="1">Per Harald Havnen Johansen Ã˜stmarka OK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -4026,7 +4026,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Per Øyvind Stene Nydalens SK</Given>
+<Given sequence="1">Per Ã˜yvind Stene Nydalens SK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -4144,7 +4144,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Sindre Saksæther Halden SK</Given>
+<Given sequence="1">Sindre SaksÃ¦ther Halden SK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -4262,7 +4262,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Trygve Tømta Raumar OL</Given>
+<Given sequence="1">Trygve TÃ¸mta Raumar OL</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -4498,7 +4498,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Alf Johan Lima Ålgård Ok</Given>
+<Given sequence="1">Alf Johan Lima Ã…lgÃ¥rd Ok</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -4734,7 +4734,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Sindre Østhagen Fredrikstad SK</Given>
+<Given sequence="1">Sindre Ã˜sthagen Fredrikstad SK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -5088,7 +5088,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Eirik Watterdal Bækkelagets SK</Given>
+<Given sequence="1">Eirik Watterdal BÃ¦kkelagets SK</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -5436,7 +5436,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Østlid Bagstevold Kongsberg OL</Family>
+<Family>Ã˜stlid Bagstevold Kongsberg OL</Family>
 <Given sequence="1">Heidi</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -5778,7 +5778,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Staff Bækkelagets SK</Family>
+<Family>Staff BÃ¦kkelagets SK</Family>
 <Given sequence="1">Hanne</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -6234,7 +6234,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Grande Østby NTNUI</Family>
+<Family>Grande Ã˜stby NTNUI</Family>
 <Given sequence="1">Marte</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -6576,7 +6576,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Bjerva Bækkelagets SK</Family>
+<Family>Bjerva BÃ¦kkelagets SK</Family>
 <Given sequence="1">Elin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -6690,7 +6690,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Nøvik Nydalens SK</Family>
+<Family>NÃ¸vik Nydalens SK</Family>
 <Given sequence="1">Hanne</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -6804,7 +6804,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Marie Bleken Bækkelagets SK</Family>
+<Family>Marie Bleken BÃ¦kkelagets SK</Family>
 <Given sequence="1">Anne</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -7260,7 +7260,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Linde Bækkelagets SK</Family>
+<Family>Linde BÃ¦kkelagets SK</Family>
 <Given sequence="1">Ane</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -7488,7 +7488,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Hovi Ås-UMB Orientering</Family>
+<Family>Hovi Ã…s-UMB Orientering</Family>
 <Given sequence="1">Ine</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -7944,7 +7944,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Lervåg Nydalens SK</Family>
+<Family>LervÃ¥g Nydalens SK</Family>
 <Given sequence="1">Pernille</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -8172,7 +8172,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Weber Øverøyen Oddersjaa Ssk</Family>
+<Family>Weber Ã˜verÃ¸yen Oddersjaa Ssk</Family>
 <Given sequence="1">Kristin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -8286,7 +8286,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Utstumo Ås-UMB Orientering</Family>
+<Family>Utstumo Ã…s-UMB Orientering</Family>
 <Given sequence="1">Ragnhild</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -8400,7 +8400,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Trösse Gular IL</Family>
+<Family>TrÃ¶sse Gular IL</Family>
 <Given sequence="1">Christiane</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -8856,7 +8856,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Nybaken Ås-UMB Orientering</Family>
+<Family>Nybaken Ã…s-UMB Orientering</Family>
 <Given sequence="1">Line</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -8970,7 +8970,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Flatekval Bækkelagets SK</Family>
+<Family>Flatekval BÃ¦kkelagets SK</Family>
 <Given sequence="1">Guro</Given>
 </PersonName>
 <PersonId></PersonId>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -775,7 +775,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Jørgensen</Family>
+<Family>JÃ¸rgensen</Family>
 <Given sequence="1">Carsten</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -2467,7 +2467,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>O´Halloran</Family>
+<Family>OÂ´Halloran</Family>
 <Given sequence="1">Colm</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -3485,7 +3485,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Valstad</Family>
-<Given sequence="1">Bjørnar</Given>
+<Given sequence="1">BjÃ¸rnar</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -5082,7 +5082,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Nömm</Family>
+<Family>NÃ¶mm</Family>
 <Given sequence="1">Marek</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -6572,7 +6572,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Kärner</Family>
+<Family>KÃ¤rner</Family>
 <Given sequence="1">Olle</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -10306,7 +10306,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Søes</Family>
+<Family>SÃ¸es</Family>
 <Given sequence="1">Signe</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -11641,7 +11641,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Svärd</Family>
+<Family>SvÃ¤rd</Family>
 <Given sequence="1">Gunilla</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -11789,7 +11789,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Grüniger</Family>
+<Family>GrÃ¼niger</Family>
 <Given sequence="1">Brigitte</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -12233,7 +12233,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>O´Neil</Family>
+<Family>OÂ´Neil</Family>
 <Given sequence="1">Alison</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -13411,7 +13411,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>A Höjsgaard</Family>
+<Family>A HÃ¶jsgaard</Family>
 <Given sequence="1">Karolina</Given>
 </PersonName>
 <PersonId></PersonId>

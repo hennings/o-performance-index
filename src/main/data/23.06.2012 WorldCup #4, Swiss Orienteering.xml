@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -587,7 +587,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Brändli</Family>
+<Family>BrÃ¤ndli</Family>
 <Given sequence="1">Simon</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -728,7 +728,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Rüedlinger</Family>
+<Family>RÃ¼edlinger</Family>
 <Given sequence="1">Andreas</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -869,7 +869,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Hägler</Family>
+<Family>HÃ¤gler</Family>
 <Given sequence="1">Kaspar</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -1292,7 +1292,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Wägeli</Family>
+<Family>WÃ¤geli</Family>
 <Given sequence="1">Patrik</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -2987,7 +2987,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öberg</Family>
+<Family>Ã–berg</Family>
 <Given sequence="1">Peter</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -4679,7 +4679,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Müller</Family>
+<Family>MÃ¼ller</Family>
 <Given sequence="1">Matthias</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -6795,7 +6795,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Bobach</Family>
-<Given sequence="1">Søren</Given>
+<Given sequence="1">SÃ¸ren</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -7640,7 +7640,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Kärner</Family>
+<Family>KÃ¤rner</Family>
 <Given sequence="1">Olle</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -8768,8 +8768,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Král</Family>
-<Given sequence="1">Vojtìch</Given>
+<Family>KrÃ¡l</Family>
+<Given sequence="1">VojtÃ¬ch</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -9473,7 +9473,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Föhr</Family>
+<Family>FÃ¶hr</Family>
 <Given sequence="1">Tero</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -10319,7 +10319,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Kubát</Family>
+<Family>KubÃ¡t</Family>
 <Given sequence="1">Pavel</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -12998,8 +12998,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sørensen</Family>
-<Given sequence="1">Søren Schwartz</Given>
+<Family>SÃ¸rensen</Family>
+<Given sequence="1">SÃ¸ren Schwartz</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -15938,7 +15938,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lüscher</Family>
+<Family>LÃ¼scher</Family>
 <Given sequence="1">Sara</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -16920,7 +16920,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Chataing</Family>
-<Given sequence="1">Amélie</Given>
+<Given sequence="1">AmÃ©lie</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -17792,7 +17792,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Bagstevold</Family>
-<Given sequence="1">Heidi Østlid</Given>
+<Given sequence="1">Heidi Ã˜stlid</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -18664,7 +18664,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Sund</Family>
-<Given sequence="1">Gøril Rønning</Given>
+<Given sequence="1">GÃ¸ril RÃ¸nning</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -19317,7 +19317,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Bochenková</Family>
+<Family>BochenkovÃ¡</Family>
 <Given sequence="1">Ivana</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -23680,7 +23680,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Müller</Family>
+<Family>MÃ¼ller</Family>
 <Given sequence="1">Regula</Given>
 </PersonName>
 <PersonId></PersonId>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -34,7 +34,7 @@
 </Person>
 <Club>
 <ClubId>169</ClubId>
-<Name>Indre Østfold OK</Name>
+<Name>Indre Ã˜stfold OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -295,7 +295,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Lucasen</Family>
-<Given sequence="1">Håvard</Given>
+<Given sequence="1">HÃ¥vard</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">479</PersonId>
 <BirthDate>
@@ -304,7 +304,7 @@
 </Person>
 <Club>
 <ClubId>402</ClubId>
-<Name>Ås-UMB Orientering</Name>
+<Name>Ã…s-UMB Orientering</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -1284,7 +1284,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Wikstrøm</Family>
+<Family>WikstrÃ¸m</Family>
 <Given sequence="1">Marius</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">1034</PersonId>
@@ -1384,7 +1384,7 @@
 </Person>
 <Club>
 <ClubId>402</ClubId>
-<Name>Ås-UMB Orientering</Name>
+<Name>Ã…s-UMB Orientering</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -1564,7 +1564,7 @@
 </Person>
 <Club>
 <ClubId>51</ClubId>
-<Name>Byåsen IL</Name>
+<Name>ByÃ¥sen IL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -1644,7 +1644,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Øie</Family>
+<Family>Ã˜ie</Family>
 <Given sequence="1">Marius</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">1056</PersonId>
@@ -1654,7 +1654,7 @@
 </Person>
 <Club>
 <ClubId>212</ClubId>
-<Name>Løten OL</Name>
+<Name>LÃ¸ten OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -1824,7 +1824,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Edstrøm</Family>
+<Family>EdstrÃ¸m</Family>
 <Given sequence="1">Jan Andreas</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">3780</PersonId>
@@ -2184,7 +2184,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Nordbrøden</Family>
+<Family>NordbrÃ¸den</Family>
 <Given sequence="1">Hallvard</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">5599</PersonId>
@@ -2554,7 +2554,7 @@
 </Person>
 <Club>
 <ClubId>355</ClubId>
-<Name>Trøsken IL</Name>
+<Name>TrÃ¸sken IL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -2818,7 +2818,7 @@
 </Person>
 <Club>
 <ClubId>402</ClubId>
-<Name>Ås-UMB Orientering</Name>
+<Name>Ã…s-UMB Orientering</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -3161,7 +3161,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Bråten</Family>
+<Family>BrÃ¥ten</Family>
 <Given sequence="1">Vetle Ruud</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">447</PersonId>
@@ -3341,7 +3341,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Årstad</Family>
+<Family>Ã…rstad</Family>
 <Given sequence="1">Thomas Natvig</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">1100</PersonId>
@@ -3611,7 +3611,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Størmer</Family>
+<Family>StÃ¸rmer</Family>
 <Given sequence="1">Leif</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">3382</PersonId>
@@ -3701,7 +3701,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Vågsnes</Family>
+<Family>VÃ¥gsnes</Family>
 <Given sequence="1">Sigve</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">510</PersonId>
@@ -4062,7 +4062,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Stene</Family>
-<Given sequence="1">Per Øyvind</Given>
+<Given sequence="1">Per Ã˜yvind</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2187</PersonId>
 <BirthDate>
@@ -4161,7 +4161,7 @@
 </Person>
 <Club>
 <ClubId>341</ClubId>
-<Name>Søgne og Songdalen OK</Name>
+<Name>SÃ¸gne og Songdalen OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -4511,8 +4511,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Nybråten</Family>
-<Given sequence="1">Jim Øystein</Given>
+<Family>NybrÃ¥ten</Family>
+<Given sequence="1">Jim Ã˜ystein</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">1274</PersonId>
 <BirthDate>
@@ -4701,7 +4701,7 @@
 </Person>
 <Club>
 <ClubId>342</ClubId>
-<Name>Sørbråten IL</Name>
+<Name>SÃ¸rbrÃ¥ten IL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -4791,7 +4791,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -5151,7 +5151,7 @@
 </Person>
 <Club>
 <ClubId>402</ClubId>
-<Name>Ås-UMB Orientering</Name>
+<Name>Ã…s-UMB Orientering</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -5322,7 +5322,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Hauge</Family>
-<Given sequence="1">Bjørn</Given>
+<Given sequence="1">BjÃ¸rn</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2302</PersonId>
 <BirthDate>
@@ -5421,7 +5421,7 @@
 </Person>
 <Club>
 <ClubId>297</ClubId>
-<Name>Røyken OL</Name>
+<Name>RÃ¸yken OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -5511,7 +5511,7 @@
 </Person>
 <Club>
 <ClubId>342</ClubId>
-<Name>Sørbråten IL</Name>
+<Name>SÃ¸rbrÃ¥ten IL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -5591,7 +5591,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Wiréhn</Family>
+<Family>WirÃ©hn</Family>
 <Given sequence="1">Per</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">557</PersonId>
@@ -5601,7 +5601,7 @@
 </Person>
 <Club>
 <ClubId>51</ClubId>
-<Name>Byåsen IL</Name>
+<Name>ByÃ¥sen IL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -5772,7 +5772,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Jelstad</Family>
-<Given sequence="1">Eirik Stærkeby</Given>
+<Given sequence="1">Eirik StÃ¦rkeby</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">3514</PersonId>
 <BirthDate>
@@ -5961,7 +5961,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -6054,7 +6054,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -6134,7 +6134,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Nørbech</Family>
+<Family>NÃ¸rbech</Family>
 <Given sequence="1">Torgeir</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2655</PersonId>
@@ -6404,7 +6404,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Dæhli</Family>
+<Family>DÃ¦hli</Family>
 <Given sequence="1">Magne</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">260</PersonId>
@@ -7124,7 +7124,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Bjørnaas</Family>
+<Family>BjÃ¸rnaas</Family>
 <Given sequence="1">Johan Asphjell</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">4373</PersonId>
@@ -7304,7 +7304,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Røisland</Family>
+<Family>RÃ¸island</Family>
 <Given sequence="1">Kjell Erik</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">3650</PersonId>
@@ -7314,7 +7314,7 @@
 </Person>
 <Club>
 <ClubId>341</ClubId>
-<Name>Søgne og Songdalen OK</Name>
+<Name>SÃ¸gne og Songdalen OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -7394,7 +7394,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Breitschädel</Family>
+<Family>BreitschÃ¤del</Family>
 <Given sequence="1">Felix</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2230</PersonId>
@@ -7574,7 +7574,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Magerøy</Family>
+<Family>MagerÃ¸y</Family>
 <Given sequence="1">Andreas</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">4661</PersonId>
@@ -7844,7 +7844,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Løland</Family>
+<Family>LÃ¸land</Family>
 <Given sequence="1">Glenn Tore</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2274</PersonId>
@@ -8025,7 +8025,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Aas</Family>
-<Given sequence="1">Ørjan Svaland</Given>
+<Given sequence="1">Ã˜rjan Svaland</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">5515</PersonId>
 <BirthDate>
@@ -8474,7 +8474,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Tellesbø</Family>
+<Family>TellesbÃ¸</Family>
 <Given sequence="1">Ola</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">11875</PersonId>
@@ -9010,7 +9010,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -9278,7 +9278,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Ekeberg</Family>
-<Given sequence="1">Bjørn</Given>
+<Given sequence="1">BjÃ¸rn</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2234</PersonId>
 <BirthDate>
@@ -9560,7 +9560,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Vassenden</Family>
-<Given sequence="1">Håvard</Given>
+<Given sequence="1">HÃ¥vard</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">385</PersonId>
 <BirthDate>
@@ -9842,7 +9842,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Heggedal</Family>
-<Given sequence="1">Håkon</Given>
+<Given sequence="1">HÃ¥kon</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">4361</PersonId>
 <BirthDate>
@@ -9945,7 +9945,7 @@
 </Person>
 <Club>
 <ClubId>402</ClubId>
-<Name>Ås-UMB Orientering</Name>
+<Name>Ã…s-UMB Orientering</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -10124,7 +10124,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Helgerud</Family>
-<Given sequence="1">Øyvind</Given>
+<Given sequence="1">Ã˜yvind</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">256</PersonId>
 <BirthDate>
@@ -10217,7 +10217,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Dahlén</Family>
+<Family>DahlÃ©n</Family>
 <Given sequence="1">Mats</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2453</PersonId>
@@ -10406,7 +10406,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Lund</Family>
-<Given sequence="1">Øyvind</Given>
+<Given sequence="1">Ã˜yvind</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">3654</PersonId>
 <BirthDate>
@@ -10500,7 +10500,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Pettersen</Family>
-<Given sequence="1">Øystein</Given>
+<Given sequence="1">Ã˜ystein</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">1177</PersonId>
 <BirthDate>
@@ -10593,7 +10593,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sætra</Family>
+<Family>SÃ¦tra</Family>
 <Given sequence="1">Ove</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">3864</PersonId>
@@ -10782,7 +10782,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Tveite</Family>
-<Given sequence="1">Håvard</Given>
+<Given sequence="1">HÃ¥vard</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">338</PersonId>
 <BirthDate>
@@ -10791,7 +10791,7 @@
 </Person>
 <Club>
 <ClubId>402</ClubId>
-<Name>Ås-UMB Orientering</Name>
+<Name>Ã…s-UMB Orientering</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -11346,7 +11346,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Haug</Family>
-<Given sequence="1">Øystein</Given>
+<Given sequence="1">Ã˜ystein</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">298</PersonId>
 <BirthDate>
@@ -11439,8 +11439,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Nygårdseter</Family>
-<Given sequence="1">Sten Åge</Given>
+<Family>NygÃ¥rdseter</Family>
+<Given sequence="1">Sten Ã…ge</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">5451</PersonId>
 <BirthDate>
@@ -11449,7 +11449,7 @@
 </Person>
 <Club>
 <ClubId>371</ClubId>
-<Name>Vegårshei IL</Name>
+<Name>VegÃ¥rshei IL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -11533,7 +11533,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Tømta</Family>
+<Family>TÃ¸mta</Family>
 <Given sequence="1">Trygve</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">31</PersonId>
@@ -11627,7 +11627,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Skulbørstad</Family>
+<Family>SkulbÃ¸rstad</Family>
 <Given sequence="1">Roar</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">754</PersonId>
@@ -12003,7 +12003,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Bjøringsøy</Family>
+<Family>BjÃ¸ringsÃ¸y</Family>
 <Given sequence="1">Simen A</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">1367</PersonId>
@@ -12192,7 +12192,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Steinbekken</Family>
-<Given sequence="1">Øyvind</Given>
+<Given sequence="1">Ã˜yvind</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">392</PersonId>
 <BirthDate>
@@ -12389,7 +12389,7 @@
 </Person>
 <Club>
 <ClubId>45</ClubId>
-<Name>Bodø og Omegn IF Orientering</Name>
+<Name>BodÃ¸ og Omegn IF Orientering</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -12473,7 +12473,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Dalsøren</Family>
+<Family>DalsÃ¸ren</Family>
 <Given sequence="1">Stig</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2885</PersonId>
@@ -12577,7 +12577,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -12665,7 +12665,7 @@
 <Person sex="F">
 <PersonName>
 <Family>Bagstevold</Family>
-<Given sequence="1">Heidi Østlid</Given>
+<Given sequence="1">Heidi Ã˜stlid</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">1545</PersonId>
 <BirthDate>
@@ -12674,7 +12674,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -12754,8 +12754,8 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Bjørgul</Family>
-<Given sequence="1">Ida Marie Næss</Given>
+<Family>BjÃ¸rgul</Family>
+<Given sequence="1">Ida Marie NÃ¦ss</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2336</PersonId>
 <BirthDate>
@@ -12934,7 +12934,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Holmström</Family>
+<Family>HolmstrÃ¶m</Family>
 <Given sequence="1">Bodil</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2877</PersonId>
@@ -13484,7 +13484,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -13664,7 +13664,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -13925,7 +13925,7 @@
 <Person sex="F">
 <PersonName>
 <Family>Arnevik</Family>
-<Given sequence="1">Irene Beate Øhrn</Given>
+<Given sequence="1">Irene Beate Ã˜hrn</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">744</PersonId>
 <BirthDate>
@@ -14014,7 +14014,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Åstebøl</Family>
+<Family>Ã…stebÃ¸l</Family>
 <Given sequence="1">Martine</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">1390</PersonId>
@@ -14204,7 +14204,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -14374,7 +14374,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Brænden</Family>
+<Family>BrÃ¦nden</Family>
 <Given sequence="1">Ida</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">6279</PersonId>
@@ -14654,7 +14654,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -14890,7 +14890,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Lähdekorpi</Family>
+<Family>LÃ¤hdekorpi</Family>
 <Given sequence="1">Emma</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">3079</PersonId>
@@ -14972,8 +14972,8 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Rønning Sund</Family>
-<Given sequence="1">Gøril</Given>
+<Family>RÃ¸nning Sund</Family>
+<Given sequence="1">GÃ¸ril</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">449</PersonId>
 <BirthDate>
@@ -15300,7 +15300,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Trösse</Family>
+<Family>TrÃ¶sse</Family>
 <Given sequence="1">Christiane</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">739</PersonId>
@@ -15874,8 +15874,8 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Bjørgul</Family>
-<Given sequence="1">Ane Sofie Næss</Given>
+<Family>BjÃ¸rgul</Family>
+<Given sequence="1">Ane Sofie NÃ¦ss</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2339</PersonId>
 <BirthDate>
@@ -16048,7 +16048,7 @@
 </Person>
 <Club>
 <ClubId>32</ClubId>
-<Name>Bækkelagets SK</Name>
+<Name>BÃ¦kkelagets SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -16130,7 +16130,7 @@
 </Person>
 <Club>
 <ClubId>212</ClubId>
-<Name>Løten OL</Name>
+<Name>LÃ¸ten OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -17022,7 +17022,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Nordbrøden</Family>
+<Family>NordbrÃ¸den</Family>
 <Given sequence="1">Hanna Haugen</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">2329</PersonId>
@@ -17432,7 +17432,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Götsch</Family>
+<Family>GÃ¶tsch</Family>
 <Given sequence="1">Arntraut</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">854</PersonId>
@@ -17442,7 +17442,7 @@
 </Person>
 <Club>
 <ClubId>146</ClubId>
-<Name>IL BUL-Tromsø</Name>
+<Name>IL BUL-TromsÃ¸</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -17596,7 +17596,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Åstebøl</Family>
+<Family>Ã…stebÃ¸l</Family>
 <Given sequence="1">Kristin</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">3512</PersonId>
@@ -18016,7 +18016,7 @@
 </Person>
 <Club>
 <ClubId>402</ClubId>
-<Name>Ås-UMB Orientering</Name>
+<Name>Ã…s-UMB Orientering</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -18334,7 +18334,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Sundtjønn</Family>
+<Family>SundtjÃ¸nn</Family>
 <Given sequence="1">Tone Aamli</Given>
 </PersonName>
 <PersonId type="nat" idManager="SWE">1042</PersonId>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -33,7 +33,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -140,7 +140,7 @@
 </Person>
 <Club>
 <ClubId>28947</ClubId>
-<Name>Göteborg-Majorna OK</Name>
+<Name>GÃ¶teborg-Majorna OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -237,7 +237,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Näsman</Family>
+<Family>NÃ¤sman</Family>
 <Given sequence="1">Johan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -247,7 +247,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -559,7 +559,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Eriksson</Family>
-<Given sequence="1">Håkan</Given>
+<Given sequence="1">HÃ¥kan</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -568,7 +568,7 @@
 </Person>
 <Club>
 <ClubId>3634</ClubId>
-<Name>Malungs OK Skogsmårdarna</Name>
+<Name>Malungs OK SkogsmÃ¥rdarna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -675,7 +675,7 @@
 </Person>
 <Club>
 <ClubId>4478</ClubId>
-<Name>Vänersborgs SK</Name>
+<Name>VÃ¤nersborgs SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -889,7 +889,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -996,7 +996,7 @@
 </Person>
 <Club>
 <ClubId>3634</ClubId>
-<Name>Malungs OK Skogsmårdarna</Name>
+<Name>Malungs OK SkogsmÃ¥rdarna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -1103,7 +1103,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -1317,7 +1317,7 @@
 </Person>
 <Club>
 <ClubId>2145</ClubId>
-<Name>OK Hällen</Name>
+<Name>OK HÃ¤llen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -1414,7 +1414,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Österlund</Family>
+<Family>Ã–sterlund</Family>
 <Given sequence="1">Anders</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -1424,7 +1424,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -1745,7 +1745,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -1852,7 +1852,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -2173,7 +2173,7 @@
 </Person>
 <Club>
 <ClubId>2325</ClubId>
-<Name>IFK Umeå</Name>
+<Name>IFK UmeÃ¥</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -2280,7 +2280,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -2378,7 +2378,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Wrane</Family>
-<Given sequence="1">Niklas Å</Given>
+<Given sequence="1">Niklas Ã…</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -2387,7 +2387,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -2494,7 +2494,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -2708,7 +2708,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -2805,7 +2805,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Engström</Family>
+<Family>EngstrÃ¶m</Family>
 <Given sequence="1">Jonas</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -2815,7 +2815,7 @@
 </Person>
 <Club>
 <ClubId>2145</ClubId>
-<Name>OK Hällen</Name>
+<Name>OK HÃ¤llen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -2922,7 +2922,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -3029,7 +3029,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -3136,7 +3136,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -3243,7 +3243,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -3350,7 +3350,7 @@
 </Person>
 <Club>
 <ClubId>1881</ClubId>
-<Name>Gävle OK</Name>
+<Name>GÃ¤vle OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -3457,7 +3457,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -3885,7 +3885,7 @@
 </Person>
 <Club>
 <ClubId>2145</ClubId>
-<Name>OK Hällen</Name>
+<Name>OK HÃ¤llen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -3988,7 +3988,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -4321,7 +4321,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -4432,7 +4432,7 @@
 </Person>
 <Club>
 <ClubId>3634</ClubId>
-<Name>Malungs OK Skogsmårdarna</Name>
+<Name>Malungs OK SkogsmÃ¥rdarna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -4543,7 +4543,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -4644,8 +4644,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Skogtjärn</Family>
-<Given sequence="1">Pål</Given>
+<Family>SkogtjÃ¤rn</Family>
+<Given sequence="1">PÃ¥l</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -4654,7 +4654,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -4876,7 +4876,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -4987,7 +4987,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -5088,7 +5088,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öberg</Family>
+<Family>Ã–berg</Family>
 <Given sequence="1">Per</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -5098,7 +5098,7 @@
 </Person>
 <Club>
 <ClubId>12804</ClubId>
-<Name>KFUM Örebro OK</Name>
+<Name>KFUM Ã–rebro OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -5431,7 +5431,7 @@
 </Person>
 <Club>
 <ClubId>28947</ClubId>
-<Name>Göteborg-Majorna OK</Name>
+<Name>GÃ¶teborg-Majorna OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -5653,7 +5653,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -6097,7 +6097,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -6430,7 +6430,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -6642,7 +6642,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sjölund</Family>
+<Family>SjÃ¶lund</Family>
 <Given sequence="1">Stefan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -6652,7 +6652,7 @@
 </Person>
 <Club>
 <ClubId>3633</ClubId>
-<Name>Skogslöparna</Name>
+<Name>SkogslÃ¶parna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -6763,7 +6763,7 @@
 </Person>
 <Club>
 <ClubId>2325</ClubId>
-<Name>IFK Umeå</Name>
+<Name>IFK UmeÃ¥</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -6976,7 +6976,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Thimberg</Family>
-<Given sequence="1">Göran</Given>
+<Given sequence="1">GÃ¶ran</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -6985,7 +6985,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -7096,7 +7096,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -7197,7 +7197,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Ahlström</Family>
+<Family>AhlstrÃ¶m</Family>
 <Given sequence="1">Johan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -7207,7 +7207,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -7318,7 +7318,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -7429,7 +7429,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -7540,7 +7540,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -7641,7 +7641,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Jönsson</Family>
+<Family>JÃ¶nsson</Family>
 <Given sequence="1">Martin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -7873,7 +7873,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -8086,7 +8086,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Pauler</Family>
-<Given sequence="1">Börje</Given>
+<Given sequence="1">BÃ¶rje</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -8095,7 +8095,7 @@
 </Person>
 <Club>
 <ClubId>3633</ClubId>
-<Name>Skogslöparna</Name>
+<Name>SkogslÃ¶parna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -8196,7 +8196,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Håkansson</Family>
+<Family>HÃ¥kansson</Family>
 <Given sequence="1">Oskar</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -8956,7 +8956,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Röjgård</Family>
+<Family>RÃ¶jgÃ¥rd</Family>
 <Given sequence="1">Mats</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -8966,7 +8966,7 @@
 </Person>
 <Club>
 <ClubId>24013</ClubId>
-<Name>OK Kolmården</Name>
+<Name>OK KolmÃ¥rden</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -9073,7 +9073,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -9170,7 +9170,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Åkerman</Family>
+<Family>Ã…kerman</Family>
 <Given sequence="1">Lars</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -9180,7 +9180,7 @@
 </Person>
 <Club>
 <ClubId>3634</ClubId>
-<Name>Malungs OK Skogsmårdarna</Name>
+<Name>Malungs OK SkogsmÃ¥rdarna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -9394,7 +9394,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -9598,7 +9598,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Hallmén</Family>
+<Family>HallmÃ©n</Family>
 <Given sequence="1">Tomas</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -9715,7 +9715,7 @@
 </Person>
 <Club>
 <ClubId>2325</ClubId>
-<Name>IFK Umeå</Name>
+<Name>IFK UmeÃ¥</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -10036,7 +10036,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -10241,7 +10241,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Gunnarsson</Family>
-<Given sequence="1">Håkan</Given>
+<Given sequence="1">HÃ¥kan</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -10347,7 +10347,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lundbäck</Family>
+<Family>LundbÃ¤ck</Family>
 <Given sequence="1">Sven</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -10571,7 +10571,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -10668,7 +10668,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Jönsson</Family>
+<Family>JÃ¶nsson</Family>
 <Given sequence="1">Petter</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -10678,7 +10678,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -10776,7 +10776,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Olsson</Family>
-<Given sequence="1">Per-Åke</Given>
+<Given sequence="1">Per-Ã…ke</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -11096,7 +11096,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Höij</Family>
+<Family>HÃ¶ij</Family>
 <Given sequence="1">Johan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -11203,7 +11203,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Näsman</Family>
+<Family>NÃ¤sman</Family>
 <Given sequence="1">Gustav</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -11320,7 +11320,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -11524,7 +11524,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Svärd</Family>
+<Family>SvÃ¤rd</Family>
 <Given sequence="1">Oskar</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -12069,7 +12069,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -12177,7 +12177,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -12274,7 +12274,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Löwegren</Family>
+<Family>LÃ¶wegren</Family>
 <Given sequence="1">Fredrik</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -12284,7 +12284,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -12488,7 +12488,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öberg</Family>
+<Family>Ã–berg</Family>
 <Given sequence="1">Peter</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -12498,7 +12498,7 @@
 </Person>
 <Club>
 <ClubId>2145</ClubId>
-<Name>OK Hällen</Name>
+<Name>OK HÃ¤llen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -12810,7 +12810,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Martinsson</Family>
-<Given sequence="1">Mårten</Given>
+<Given sequence="1">MÃ¥rten</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -13140,7 +13140,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -13345,7 +13345,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Ohlin</Family>
-<Given sequence="1">Jörgen</Given>
+<Given sequence="1">JÃ¶rgen</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -13354,7 +13354,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -13675,7 +13675,7 @@
 </Person>
 <Club>
 <ClubId>28947</ClubId>
-<Name>Göteborg-Majorna OK</Name>
+<Name>GÃ¶teborg-Majorna OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -13986,7 +13986,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öhlund</Family>
+<Family>Ã–hlund</Family>
 <Given sequence="1">Erik</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -14094,7 +14094,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Ljunggren</Family>
-<Given sequence="1">Björn</Given>
+<Given sequence="1">BjÃ¶rn</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -14210,7 +14210,7 @@
 </Person>
 <Club>
 <ClubId>3634</ClubId>
-<Name>Malungs OK Skogsmårdarna</Name>
+<Name>Malungs OK SkogsmÃ¥rdarna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -14424,7 +14424,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -14521,7 +14521,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lindéus</Family>
+<Family>LindÃ©us</Family>
 <Given sequence="1">Anders</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -14628,8 +14628,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Widén</Family>
-<Given sequence="1">Björn</Given>
+<Family>WidÃ©n</Family>
+<Given sequence="1">BjÃ¶rn</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -14638,7 +14638,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -14735,7 +14735,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Löfås</Family>
+<Family>LÃ¶fÃ¥s</Family>
 <Given sequence="1">Henrik</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -14949,7 +14949,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Mårts</Family>
+<Family>MÃ¥rts</Family>
 <Given sequence="1">Mattias</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -15163,7 +15163,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Håkansson</Family>
+<Family>HÃ¥kansson</Family>
 <Given sequence="1">Johan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -15270,7 +15270,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Åkerman</Family>
+<Family>Ã…kerman</Family>
 <Given sequence="1">Anders</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -15280,7 +15280,7 @@
 </Person>
 <Club>
 <ClubId>3634</ClubId>
-<Name>Malungs OK Skogsmårdarna</Name>
+<Name>Malungs OK SkogsmÃ¥rdarna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -15387,7 +15387,7 @@
 </Person>
 <Club>
 <ClubId>3634</ClubId>
-<Name>Malungs OK Skogsmårdarna</Name>
+<Name>Malungs OK SkogsmÃ¥rdarna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -15484,7 +15484,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Löfås</Family>
+<Family>LÃ¶fÃ¥s</Family>
 <Given sequence="1">Peter</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -15601,7 +15601,7 @@
 </Person>
 <Club>
 <ClubId>2325</ClubId>
-<Name>IFK Umeå</Name>
+<Name>IFK UmeÃ¥</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -15913,7 +15913,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Bengtsson</Family>
-<Given sequence="1">Lars-Håkan</Given>
+<Given sequence="1">Lars-HÃ¥kan</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -15922,7 +15922,7 @@
 </Person>
 <Club>
 <ClubId>1881</ClubId>
-<Name>Gävle OK</Name>
+<Name>GÃ¤vle OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -16437,7 +16437,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Bäckström</Family>
+<Family>BÃ¤ckstrÃ¶m</Family>
 <Given sequence="1">Lina</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -16447,7 +16447,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -16768,7 +16768,7 @@
 </Person>
 <Club>
 <ClubId>3633</ClubId>
-<Name>Skogslöparna</Name>
+<Name>SkogslÃ¶parna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -17089,7 +17089,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -17196,7 +17196,7 @@
 </Person>
 <Club>
 <ClubId>1990</ClubId>
-<Name>OK Hedströmmen</Name>
+<Name>OK HedstrÃ¶mmen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -17294,7 +17294,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Hellqvist</Family>
-<Given sequence="1">Åsa</Given>
+<Given sequence="1">Ã…sa</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -17410,7 +17410,7 @@
 </Person>
 <Club>
 <ClubId>4658</ClubId>
-<Name>Ärla IF</Name>
+<Name>Ã„rla IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -17517,7 +17517,7 @@
 </Person>
 <Club>
 <ClubId>12804</ClubId>
-<Name>KFUM Örebro OK</Name>
+<Name>KFUM Ã–rebro OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -17624,7 +17624,7 @@
 </Person>
 <Club>
 <ClubId>1886</ClubId>
-<Name>FK Göingarna</Name>
+<Name>FK GÃ¶ingarna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -17731,7 +17731,7 @@
 </Person>
 <Club>
 <ClubId>2145</ClubId>
-<Name>OK Hällen</Name>
+<Name>OK HÃ¤llen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -17828,7 +17828,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Påhlstorp</Family>
+<Family>PÃ¥hlstorp</Family>
 <Given sequence="1">Annica</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -17838,7 +17838,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -17935,7 +17935,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Boström</Family>
+<Family>BostrÃ¶m</Family>
 <Given sequence="1">Karin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -17945,7 +17945,7 @@
 </Person>
 <Club>
 <ClubId>2415</ClubId>
-<Name>Järfälla OK</Name>
+<Name>JÃ¤rfÃ¤lla OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -18256,7 +18256,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Håkansson</Family>
+<Family>HÃ¥kansson</Family>
 <Given sequence="1">Linda</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -18587,7 +18587,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -18694,7 +18694,7 @@
 </Person>
 <Club>
 <ClubId>1990</ClubId>
-<Name>OK Hedströmmen</Name>
+<Name>OK HedstrÃ¶mmen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -18791,7 +18791,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sönsteröd</Family>
+<Family>SÃ¶nsterÃ¶d</Family>
 <Given sequence="1">Helena</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -19336,7 +19336,7 @@
 </Person>
 <Club>
 <ClubId>28947</ClubId>
-<Name>Göteborg-Majorna OK</Name>
+<Name>GÃ¶teborg-Majorna OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -19657,7 +19657,7 @@
 </Person>
 <Club>
 <ClubId>1035</ClubId>
-<Name>Alfta-Ösa OK</Name>
+<Name>Alfta-Ã–sa OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -19764,7 +19764,7 @@
 </Person>
 <Club>
 <ClubId>4478</ClubId>
-<Name>Vänersborgs SK</Name>
+<Name>VÃ¤nersborgs SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -19861,7 +19861,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Kälvedal</Family>
+<Family>KÃ¤lvedal</Family>
 <Given sequence="1">Ingela</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -19871,7 +19871,7 @@
 </Person>
 <Club>
 <ClubId>39130</ClubId>
-<Name>Västvärmlands OK</Name>
+<Name>VÃ¤stvÃ¤rmlands OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -20187,7 +20187,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -20290,7 +20290,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -20393,7 +20393,7 @@
 </Person>
 <Club>
 <ClubId>1476</ClubId>
-<Name>Eksjö SOK</Name>
+<Name>EksjÃ¶ SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -20898,7 +20898,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öberg</Family>
+<Family>Ã–berg</Family>
 <Given sequence="1">Catarina</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -21217,7 +21217,7 @@
 </Person>
 <Club>
 <ClubId>39130</ClubId>
-<Name>Västvärmlands OK</Name>
+<Name>VÃ¤stvÃ¤rmlands OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -21311,7 +21311,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Nordberg</Family>
-<Given sequence="1">Åsa</Given>
+<Given sequence="1">Ã…sa</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -21320,7 +21320,7 @@
 </Person>
 <Club>
 <ClubId>28947</ClubId>
-<Name>Göteborg-Majorna OK</Name>
+<Name>GÃ¶teborg-Majorna OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -21619,7 +21619,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Nygård</Family>
+<Family>NygÃ¥rd</Family>
 <Given sequence="1">Anna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -21629,7 +21629,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -21732,7 +21732,7 @@
 </Person>
 <Club>
 <ClubId>3598</ClubId>
-<Name>Skarpnäcks OL</Name>
+<Name>SkarpnÃ¤cks OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -21825,7 +21825,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Björk</Family>
+<Family>BjÃ¶rk</Family>
 <Given sequence="1">Annika</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -21835,7 +21835,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -21938,7 +21938,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -22141,7 +22141,7 @@
 </Person>
 <Club>
 <ClubId>28947</ClubId>
-<Name>Göteborg-Majorna OK</Name>
+<Name>GÃ¶teborg-Majorna OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -22244,7 +22244,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -22347,7 +22347,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -22450,7 +22450,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -22646,7 +22646,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Maxén</Family>
+<Family>MaxÃ©n</Family>
 <Given sequence="1">Johanna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -22955,7 +22955,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öberg</Family>
+<Family>Ã–berg</Family>
 <Given sequence="1">Sara</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -22965,7 +22965,7 @@
 </Person>
 <Club>
 <ClubId>12804</ClubId>
-<Name>KFUM Örebro OK</Name>
+<Name>KFUM Ã–rebro OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -23068,7 +23068,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -23370,7 +23370,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Höglund</Family>
+<Family>HÃ¶glund</Family>
 <Given sequence="1">Laila B</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -23487,7 +23487,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -23692,7 +23692,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Lindqvist</Family>
-<Given sequence="1">Åsa</Given>
+<Given sequence="1">Ã…sa</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -23701,7 +23701,7 @@
 </Person>
 <Club>
 <ClubId>3633</ClubId>
-<Name>Skogslöparna</Name>
+<Name>SkogslÃ¶parna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -23798,7 +23798,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Törnros</Family>
+<Family>TÃ¶rnros</Family>
 <Given sequence="1">Elsa</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -23808,7 +23808,7 @@
 </Person>
 <Club>
 <ClubId>34975</ClubId>
-<Name>Tumba-Mälarhöjden OK</Name>
+<Name>Tumba-MÃ¤larhÃ¶jden OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -24012,7 +24012,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>von Schmalensé</Family>
+<Family>von SchmalensÃ©</Family>
 <Given sequence="1">Maria</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -24022,7 +24022,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -24129,7 +24129,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -24547,7 +24547,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Eklöf</Family>
+<Family>EklÃ¶f</Family>
 <Given sequence="1">Emelie</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -24664,7 +24664,7 @@
 </Person>
 <Club>
 <ClubId>12804</ClubId>
-<Name>KFUM Örebro OK</Name>
+<Name>KFUM Ã–rebro OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -24761,7 +24761,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Byström</Family>
+<Family>BystrÃ¶m</Family>
 <Given sequence="1">Linda</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -24975,7 +24975,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Tirén</Family>
+<Family>TirÃ©n</Family>
 <Given sequence="1">Jenny</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -25092,7 +25092,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -25199,7 +25199,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -25403,7 +25403,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sjöberg</Family>
+<Family>SjÃ¶berg</Family>
 <Given sequence="1">Camilla</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -25413,7 +25413,7 @@
 </Person>
 <Club>
 <ClubId>3633</ClubId>
-<Name>Skogslöparna</Name>
+<Name>SkogslÃ¶parna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -25510,7 +25510,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sjölander</Family>
+<Family>SjÃ¶lander</Family>
 <Given sequence="1">Elin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -25627,7 +25627,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -26152,7 +26152,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Palmér</Family>
+<Family>PalmÃ©r</Family>
 <Given sequence="1">Lina</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -26376,7 +26376,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -26483,7 +26483,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -26590,7 +26590,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -26794,7 +26794,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Dovåker-Liss</Family>
+<Family>DovÃ¥ker-Liss</Family>
 <Given sequence="1">Anna-Karin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -26911,7 +26911,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -27116,7 +27116,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Höjsgaard</Family>
+<Family>HÃ¶jsgaard</Family>
 <Given sequence="1">Karolina A.</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -27641,7 +27641,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -27734,7 +27734,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Mårsell</Family>
+<Family>MÃ¥rsell</Family>
 <Given sequence="1">Anna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -27744,7 +27744,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -27847,7 +27847,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -27950,7 +27950,7 @@
 </Person>
 <Club>
 <ClubId>2145</ClubId>
-<Name>OK Hällen</Name>
+<Name>OK HÃ¤llen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -28053,7 +28053,7 @@
 </Person>
 <Club>
 <ClubId>2250</ClubId>
-<Name>IFK Göteborg</Name>
+<Name>IFK GÃ¶teborg</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -28156,7 +28156,7 @@
 </Person>
 <Club>
 <ClubId>34975</ClubId>
-<Name>Tumba-Mälarhöjden OK</Name>
+<Name>Tumba-MÃ¤larhÃ¶jden OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -28259,7 +28259,7 @@
 </Person>
 <Club>
 <ClubId>1035</ClubId>
-<Name>Alfta-Ösa OK</Name>
+<Name>Alfta-Ã–sa OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -28362,7 +28362,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -28558,7 +28558,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öberg</Family>
+<Family>Ã–berg</Family>
 <Given sequence="1">Emma</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -28568,7 +28568,7 @@
 </Person>
 <Club>
 <ClubId>2145</ClubId>
-<Name>OK Hällen</Name>
+<Name>OK HÃ¤llen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -28661,7 +28661,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Göthfors</Family>
+<Family>GÃ¶thfors</Family>
 <Given sequence="1">Louise</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -28671,7 +28671,7 @@
 </Person>
 <Club>
 <ClubId>2415</ClubId>
-<Name>Järfälla OK</Name>
+<Name>JÃ¤rfÃ¤lla OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -28774,7 +28774,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -28970,7 +28970,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sjölander</Family>
+<Family>SjÃ¶lander</Family>
 <Given sequence="1">Lisa</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -28980,7 +28980,7 @@
 </Person>
 <Club>
 <ClubId>2145</ClubId>
-<Name>OK Hällen</Name>
+<Name>OK HÃ¤llen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -29083,7 +29083,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -29176,7 +29176,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Ställberg</Family>
+<Family>StÃ¤llberg</Family>
 <Given sequence="1">Anna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -29495,7 +29495,7 @@
 </Person>
 <Club>
 <ClubId>28947</ClubId>
-<Name>Göteborg-Majorna OK</Name>
+<Name>GÃ¶teborg-Majorna OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -29598,7 +29598,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -29698,7 +29698,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -29894,7 +29894,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Åkesson</Family>
+<Family>Ã…kesson</Family>
 <Given sequence="1">Lina</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -29904,7 +29904,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -30007,7 +30007,7 @@
 </Person>
 <Club>
 <ClubId>32504</ClubId>
-<Name>Långshyttans AIK OK</Name>
+<Name>LÃ¥ngshyttans AIK OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -30100,7 +30100,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Andréasson</Family>
+<Family>AndrÃ©asson</Family>
 <Given sequence="1">Anna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -30316,7 +30316,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -30932,7 +30932,7 @@
 </Person>
 <Club>
 <ClubId>1881</ClubId>
-<Name>Gävle OK</Name>
+<Name>GÃ¤vle OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -31021,7 +31021,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Millegård</Family>
+<Family>MillegÃ¥rd</Family>
 <Given sequence="1">Marcus</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -31031,7 +31031,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -31433,7 +31433,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Hellström</Family>
+<Family>HellstrÃ¶m</Family>
 <Given sequence="1">Markus</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -31855,7 +31855,7 @@
 </Person>
 <Club>
 <ClubId>1317</ClubId>
-<Name>Bromma-Vällingby SOK</Name>
+<Name>Bromma-VÃ¤llingby SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -31948,7 +31948,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lööf</Family>
+<Family>LÃ¶Ã¶f</Family>
 <Given sequence="1">Jakob</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -32370,7 +32370,7 @@
 </Person>
 <Club>
 <ClubId>3961</ClubId>
-<Name>Säterbygdens OK</Name>
+<Name>SÃ¤terbygdens OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -32782,7 +32782,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -32885,7 +32885,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -32978,7 +32978,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Francén</Family>
+<Family>FrancÃ©n</Family>
 <Given sequence="1">Jonatan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -32988,7 +32988,7 @@
 </Person>
 <Club>
 <ClubId>4092</ClubId>
-<Name>Tjällmo-Godegårds OK</Name>
+<Name>TjÃ¤llmo-GodegÃ¥rds OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -33184,7 +33184,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Rönnols</Family>
+<Family>RÃ¶nnols</Family>
 <Given sequence="1">Jerk</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -33194,7 +33194,7 @@
 </Person>
 <Club>
 <ClubId>3961</ClubId>
-<Name>Säterbygdens OK</Name>
+<Name>SÃ¤terbygdens OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -33287,7 +33287,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Grawé</Family>
+<Family>GrawÃ©</Family>
 <Given sequence="1">Henrik</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -33297,7 +33297,7 @@
 </Person>
 <Club>
 <ClubId>4658</ClubId>
-<Name>Ärla IF</Name>
+<Name>Ã„rla IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -33493,7 +33493,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Bäckström</Family>
+<Family>BÃ¤ckstrÃ¶m</Family>
 <Given sequence="1">Jonas</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -33596,7 +33596,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Näsholm</Family>
+<Family>NÃ¤sholm</Family>
 <Given sequence="1">Johan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -33606,7 +33606,7 @@
 </Person>
 <Club>
 <ClubId>4658</ClubId>
-<Name>Ärla IF</Name>
+<Name>Ã„rla IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -33699,7 +33699,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Östling</Family>
+<Family>Ã–stling</Family>
 <Given sequence="1">Gustav</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -33812,7 +33812,7 @@
 </Person>
 <Club>
 <ClubId>23112</ClubId>
-<Name>Köping-Kolsva OK</Name>
+<Name>KÃ¶ping-Kolsva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -34018,7 +34018,7 @@
 </Person>
 <Club>
 <ClubId>23112</ClubId>
-<Name>Köping-Kolsva OK</Name>
+<Name>KÃ¶ping-Kolsva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -34121,7 +34121,7 @@
 </Person>
 <Club>
 <ClubId>2145</ClubId>
-<Name>OK Hällen</Name>
+<Name>OK HÃ¤llen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -34214,7 +34214,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Engström</Family>
+<Family>EngstrÃ¶m</Family>
 <Given sequence="1">David</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -34224,7 +34224,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -34327,7 +34327,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -34524,7 +34524,7 @@
 </Person>
 <Club>
 <ClubId>1035</ClubId>
-<Name>Alfta-Ösa OK</Name>
+<Name>Alfta-Ã–sa OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -34613,7 +34613,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Hedlöf</Family>
+<Family>HedlÃ¶f</Family>
 <Given sequence="1">Viktor</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -34623,7 +34623,7 @@
 </Person>
 <Club>
 <ClubId>3443</ClubId>
-<Name>Rånäs OK</Name>
+<Name>RÃ¥nÃ¤s OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -34811,7 +34811,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öström</Family>
+<Family>Ã–strÃ¶m</Family>
 <Given sequence="1">Tobias</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -34920,7 +34920,7 @@
 </Person>
 <Club>
 <ClubId>2325</ClubId>
-<Name>IFK Umeå</Name>
+<Name>IFK UmeÃ¥</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -35019,7 +35019,7 @@
 </Person>
 <Club>
 <ClubId>23110</ClubId>
-<Name>Umeå OK</Name>
+<Name>UmeÃ¥ OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -35109,7 +35109,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Olofsson</Family>
-<Given sequence="1">Pär</Given>
+<Given sequence="1">PÃ¤r</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -35217,7 +35217,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -35306,7 +35306,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Björke</Family>
+<Family>BjÃ¶rke</Family>
 <Given sequence="1">Nils</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -35316,7 +35316,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -35406,7 +35406,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Arnesson</Family>
-<Given sequence="1">Björn</Given>
+<Given sequence="1">BjÃ¶rn</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -35504,7 +35504,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Björklund</Family>
+<Family>BjÃ¶rklund</Family>
 <Given sequence="1">Fredrik</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -35514,7 +35514,7 @@
 </Person>
 <Club>
 <ClubId>12804</ClubId>
-<Name>KFUM Örebro OK</Name>
+<Name>KFUM Ã–rebro OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -35613,7 +35613,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -35712,7 +35712,7 @@
 </Person>
 <Club>
 <ClubId>23110</ClubId>
-<Name>Umeå OK</Name>
+<Name>UmeÃ¥ OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -35910,7 +35910,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -36296,7 +36296,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Vikström</Family>
+<Family>VikstrÃ¶m</Family>
 <Given sequence="1">Jonas</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -36306,7 +36306,7 @@
 </Person>
 <Club>
 <ClubId>1990</ClubId>
-<Name>OK Hedströmmen</Name>
+<Name>OK HedstrÃ¶mmen</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -36405,7 +36405,7 @@
 </Person>
 <Club>
 <ClubId>3443</ClubId>
-<Name>Rånäs OK</Name>
+<Name>RÃ¥nÃ¤s OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -36603,7 +36603,7 @@
 </Person>
 <Club>
 <ClubId>37526</ClubId>
-<Name>Härnösands OK</Name>
+<Name>HÃ¤rnÃ¶sands OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -36900,7 +36900,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -37197,7 +37197,7 @@
 </Person>
 <Club>
 <ClubId>4478</ClubId>
-<Name>Vänersborgs SK</Name>
+<Name>VÃ¤nersborgs SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -37286,7 +37286,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Mollén</Family>
+<Family>MollÃ©n</Family>
 <Given sequence="1">Albert</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -37385,7 +37385,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öhlén</Family>
+<Family>Ã–hlÃ©n</Family>
 <Given sequence="1">Peter</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -37395,7 +37395,7 @@
 </Person>
 <Club>
 <ClubId>37670</ClubId>
-<Name>Midälva OK</Name>
+<Name>MidÃ¤lva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -37784,7 +37784,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Nordström</Family>
+<Family>NordstrÃ¶m</Family>
 <Given sequence="1">Mikael</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -37794,7 +37794,7 @@
 </Person>
 <Club>
 <ClubId>3443</ClubId>
-<Name>Rånäs OK</Name>
+<Name>RÃ¥nÃ¤s OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -37992,7 +37992,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -38181,7 +38181,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Pramlid</Family>
-<Given sequence="1">Björn</Given>
+<Given sequence="1">BjÃ¶rn</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -38279,7 +38279,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sjölander</Family>
+<Family>SjÃ¶lander</Family>
 <Given sequence="1">Joel</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -38289,7 +38289,7 @@
 </Person>
 <Club>
 <ClubId>37526</ClubId>
-<Name>Härnösands OK</Name>
+<Name>HÃ¤rnÃ¶sands OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -38388,7 +38388,7 @@
 </Person>
 <Club>
 <ClubId>1881</ClubId>
-<Name>Gävle OK</Name>
+<Name>GÃ¤vle OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -38477,7 +38477,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Åkerberg</Family>
+<Family>Ã…kerberg</Family>
 <Given sequence="1">Isac</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -38586,7 +38586,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -38675,7 +38675,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Håkansson</Family>
+<Family>HÃ¥kansson</Family>
 <Given sequence="1">Anders</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -39081,7 +39081,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -39477,7 +39477,7 @@
 </Person>
 <Club>
 <ClubId>1886</ClubId>
-<Name>FK Göingarna</Name>
+<Name>FK GÃ¶ingarna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -39675,7 +39675,7 @@
 </Person>
 <Club>
 <ClubId>3443</ClubId>
-<Name>Rånäs OK</Name>
+<Name>RÃ¥nÃ¤s OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -39873,7 +39873,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -39972,7 +39972,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -40071,7 +40071,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -40170,7 +40170,7 @@
 </Person>
 <Club>
 <ClubId>3443</ClubId>
-<Name>Rånäs OK</Name>
+<Name>RÃ¥nÃ¤s OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -40566,7 +40566,7 @@
 </Person>
 <Club>
 <ClubId>1476</ClubId>
-<Name>Eksjö SOK</Name>
+<Name>EksjÃ¶ SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -40853,7 +40853,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lindström</Family>
+<Family>LindstrÃ¶m</Family>
 <Given sequence="1">Erik</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -40863,7 +40863,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -41225,7 +41225,7 @@
 </Person>
 <Club>
 <ClubId>23112</ClubId>
-<Name>Köping-Kolsva OK</Name>
+<Name>KÃ¶ping-Kolsva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -41399,7 +41399,7 @@
 </Person>
 <Club>
 <ClubId>37670</ClubId>
-<Name>Midälva OK</Name>
+<Name>MidÃ¤lva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -41650,7 +41650,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Janerås</Family>
+<Family>JanerÃ¥s</Family>
 <Given sequence="1">Karin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -41660,7 +41660,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -41834,7 +41834,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -41911,7 +41911,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Håkansson</Family>
+<Family>HÃ¥kansson</Family>
 <Given sequence="1">Isabell</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -41921,7 +41921,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -42008,7 +42008,7 @@
 </Person>
 <Club>
 <ClubId>37526</ClubId>
-<Name>Härnösands OK</Name>
+<Name>HÃ¤rnÃ¶sands OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -42095,7 +42095,7 @@
 </Person>
 <Club>
 <ClubId>1317</ClubId>
-<Name>Bromma-Vällingby SOK</Name>
+<Name>Bromma-VÃ¤llingby SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -42172,7 +42172,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Östlin</Family>
+<Family>Ã–stlin</Family>
 <Given sequence="1">Johanna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -42182,7 +42182,7 @@
 </Person>
 <Club>
 <ClubId>1207</ClubId>
-<Name>Björkfors GOIF</Name>
+<Name>BjÃ¶rkfors GOIF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -42356,7 +42356,7 @@
 </Person>
 <Club>
 <ClubId>4605</ClubId>
-<Name>Årsunda IF</Name>
+<Name>Ã…rsunda IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -42443,7 +42443,7 @@
 </Person>
 <Club>
 <ClubId>3608</ClubId>
-<Name>Skellefteå OK</Name>
+<Name>SkellefteÃ¥ OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -42704,7 +42704,7 @@
 </Person>
 <Club>
 <ClubId>3633</ClubId>
-<Name>Skogslöparna</Name>
+<Name>SkogslÃ¶parna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -42965,7 +42965,7 @@
 </Person>
 <Club>
 <ClubId>24013</ClubId>
-<Name>OK Kolmården</Name>
+<Name>OK KolmÃ¥rden</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -43042,7 +43042,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Holmström</Family>
+<Family>HolmstrÃ¶m</Family>
 <Given sequence="1">Anna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -43223,7 +43223,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -43387,7 +43387,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Engström</Family>
+<Family>EngstrÃ¶m</Family>
 <Given sequence="1">Josefine</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -43397,7 +43397,7 @@
 </Person>
 <Club>
 <ClubId>1035</ClubId>
-<Name>Alfta-Ösa OK</Name>
+<Name>Alfta-Ã–sa OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -43658,7 +43658,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -43832,7 +43832,7 @@
 </Person>
 <Club>
 <ClubId>2892</ClubId>
-<Name>Långhundra IF</Name>
+<Name>LÃ¥nghundra IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -43919,7 +43919,7 @@
 </Person>
 <Club>
 <ClubId>28903</ClubId>
-<Name>Västerbergslagens OL</Name>
+<Name>VÃ¤sterbergslagens OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -43996,7 +43996,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lidström</Family>
+<Family>LidstrÃ¶m</Family>
 <Given sequence="1">Linnea</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -44093,7 +44093,7 @@
 </Person>
 <Club>
 <ClubId>3725</ClubId>
-<Name>Snättringe SK</Name>
+<Name>SnÃ¤ttringe SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -44180,7 +44180,7 @@
 </Person>
 <Club>
 <ClubId>4438</ClubId>
-<Name>Vittjärvs IK</Name>
+<Name>VittjÃ¤rvs IK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -44267,7 +44267,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -44354,7 +44354,7 @@
 </Person>
 <Club>
 <ClubId>4438</ClubId>
-<Name>Vittjärvs IK</Name>
+<Name>VittjÃ¤rvs IK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -44441,7 +44441,7 @@
 </Person>
 <Club>
 <ClubId>39130</ClubId>
-<Name>Västvärmlands OK</Name>
+<Name>VÃ¤stvÃ¤rmlands OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -44528,7 +44528,7 @@
 </Person>
 <Club>
 <ClubId>1476</ClubId>
-<Name>Eksjö SOK</Name>
+<Name>EksjÃ¶ SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -44615,7 +44615,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -44779,7 +44779,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Björkman</Family>
+<Family>BjÃ¶rkman</Family>
 <Given sequence="1">Elin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -44789,7 +44789,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -45040,7 +45040,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Östlin</Family>
+<Family>Ã–stlin</Family>
 <Given sequence="1">Linnea</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -45050,7 +45050,7 @@
 </Person>
 <Club>
 <ClubId>1207</ClubId>
-<Name>Björkfors GOIF</Name>
+<Name>BjÃ¶rkfors GOIF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -45311,7 +45311,7 @@
 </Person>
 <Club>
 <ClubId>1035</ClubId>
-<Name>Alfta-Ösa OK</Name>
+<Name>Alfta-Ã–sa OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -45607,7 +45607,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -45764,7 +45764,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Persson</Family>
-<Given sequence="1">Anna (Humlaröd)</Given>
+<Given sequence="1">Anna (HumlarÃ¶d)</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -45773,7 +45773,7 @@
 </Person>
 <Club>
 <ClubId>1886</ClubId>
-<Name>FK Göingarna</Name>
+<Name>FK GÃ¶ingarna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -46105,7 +46105,7 @@
 </Person>
 <Club>
 <ClubId>12829</ClubId>
-<Name>OK Älme</Name>
+<Name>OK Ã„lme</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -46188,7 +46188,7 @@
 </Person>
 <Club>
 <ClubId>2691</ClubId>
-<Name>OK Kåre</Name>
+<Name>OK KÃ¥re</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -46271,7 +46271,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -46354,7 +46354,7 @@
 </Person>
 <Club>
 <ClubId>3633</ClubId>
-<Name>Skogslöparna</Name>
+<Name>SkogslÃ¶parna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -46427,7 +46427,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Mårtensson</Family>
+<Family>MÃ¥rtensson</Family>
 <Given sequence="1">Susanna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -46510,7 +46510,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Ahlsén-Seirup</Family>
+<Family>AhlsÃ©n-Seirup</Family>
 <Given sequence="1">Linda</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -46520,7 +46520,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -46603,7 +46603,7 @@
 </Person>
 <Club>
 <ClubId>1881</ClubId>
-<Name>Gävle OK</Name>
+<Name>GÃ¤vle OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -46686,7 +46686,7 @@
 </Person>
 <Club>
 <ClubId>2444</ClubId>
-<Name>Jönköpings OK</Name>
+<Name>JÃ¶nkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -46759,7 +46759,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öhman</Family>
+<Family>Ã–hman</Family>
 <Given sequence="1">Sanna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -46769,7 +46769,7 @@
 </Person>
 <Club>
 <ClubId>34975</ClubId>
-<Name>Tumba-Mälarhöjden OK</Name>
+<Name>Tumba-MÃ¤larhÃ¶jden OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -47018,7 +47018,7 @@
 </Person>
 <Club>
 <ClubId>4658</ClubId>
-<Name>Ärla IF</Name>
+<Name>Ã„rla IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -47101,7 +47101,7 @@
 </Person>
 <Club>
 <ClubId>23112</ClubId>
-<Name>Köping-Kolsva OK</Name>
+<Name>KÃ¶ping-Kolsva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -47267,7 +47267,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -47506,7 +47506,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Engström</Family>
+<Family>EngstrÃ¶m</Family>
 <Given sequence="1">Lisa</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -47599,7 +47599,7 @@
 </Person>
 <Club>
 <ClubId>37670</ClubId>
-<Name>Midälva OK</Name>
+<Name>MidÃ¤lva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -47682,7 +47682,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -47942,7 +47942,7 @@
 </Person>
 <Club>
 <ClubId>1881</ClubId>
-<Name>Gävle OK</Name>
+<Name>GÃ¤vle OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -48215,7 +48215,7 @@
 </Person>
 <Club>
 <ClubId>1035</ClubId>
-<Name>Alfta-Ösa OK</Name>
+<Name>Alfta-Ã–sa OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -48306,7 +48306,7 @@
 </Person>
 <Club>
 <ClubId>3202</ClubId>
-<Name>Nyköpings OK</Name>
+<Name>NykÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -48670,7 +48670,7 @@
 </Person>
 <Club>
 <ClubId>28947</ClubId>
-<Name>Göteborg-Majorna OK</Name>
+<Name>GÃ¶teborg-Majorna OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -48852,7 +48852,7 @@
 </Person>
 <Club>
 <ClubId>3373</ClubId>
-<Name>Ringsjö OK</Name>
+<Name>RingsjÃ¶ OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -49116,7 +49116,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Pettersson</Family>
-<Given sequence="1">Håkan</Given>
+<Given sequence="1">HÃ¥kan</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -49580,7 +49580,7 @@
 </Person>
 <Club>
 <ClubId>37009</ClubId>
-<Name>Hjärnarps GH OL</Name>
+<Name>HjÃ¤rnarps GH OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -49661,7 +49661,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sundlöf</Family>
+<Family>SundlÃ¶f</Family>
 <Given sequence="1">Martin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -49671,7 +49671,7 @@
 </Person>
 <Club>
 <ClubId>1881</ClubId>
-<Name>Gävle OK</Name>
+<Name>GÃ¤vle OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -49762,7 +49762,7 @@
 </Person>
 <Club>
 <ClubId>3443</ClubId>
-<Name>Rånäs OK</Name>
+<Name>RÃ¥nÃ¤s OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -49853,7 +49853,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -50217,7 +50217,7 @@
 </Person>
 <Club>
 <ClubId>3961</ClubId>
-<Name>Säterbygdens OK</Name>
+<Name>SÃ¤terbygdens OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -50399,7 +50399,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -50672,7 +50672,7 @@
 </Person>
 <Club>
 <ClubId>3202</ClubId>
-<Name>Nyköpings OK</Name>
+<Name>NykÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -51225,7 +51225,7 @@
 </Person>
 <Club>
 <ClubId>1035</ClubId>
-<Name>Alfta-Ösa OK</Name>
+<Name>Alfta-Ã–sa OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -51605,7 +51605,7 @@
 </Person>
 <Club>
 <ClubId>37670</ClubId>
-<Name>Midälva OK</Name>
+<Name>MidÃ¤lva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -51700,7 +51700,7 @@
 </Person>
 <Club>
 <ClubId>1881</ClubId>
-<Name>Gävle OK</Name>
+<Name>GÃ¤vle OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -51795,7 +51795,7 @@
 </Person>
 <Club>
 <ClubId>3202</ClubId>
-<Name>Nyköpings OK</Name>
+<Name>NykÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -52070,7 +52070,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Winterås</Family>
+<Family>WinterÃ¥s</Family>
 <Given sequence="1">Johan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -52080,7 +52080,7 @@
 </Person>
 <Club>
 <ClubId>28903</ClubId>
-<Name>Västerbergslagens OL</Name>
+<Name>VÃ¤sterbergslagens OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -52270,7 +52270,7 @@
 </Person>
 <Club>
 <ClubId>2892</ClubId>
-<Name>Långhundra IF</Name>
+<Name>LÃ¥nghundra IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -52365,7 +52365,7 @@
 </Person>
 <Club>
 <ClubId>4538</ClubId>
-<Name>Växjö OK</Name>
+<Name>VÃ¤xjÃ¶ OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -52650,7 +52650,7 @@
 </Person>
 <Club>
 <ClubId>3961</ClubId>
-<Name>Säterbygdens OK</Name>
+<Name>SÃ¤terbygdens OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -52745,7 +52745,7 @@
 </Person>
 <Club>
 <ClubId>12829</ClubId>
-<Name>OK Älme</Name>
+<Name>OK Ã„lme</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -52830,7 +52830,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öström</Family>
+<Family>Ã–strÃ¶m</Family>
 <Given sequence="1">Jens</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -52935,7 +52935,7 @@
 </Person>
 <Club>
 <ClubId>3202</ClubId>
-<Name>Nyköpings OK</Name>
+<Name>NykÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -53115,7 +53115,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sjögren</Family>
+<Family>SjÃ¶gren</Family>
 <Given sequence="1">Vidar</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -53125,7 +53125,7 @@
 </Person>
 <Club>
 <ClubId>4092</ClubId>
-<Name>Tjällmo-Godegårds OK</Name>
+<Name>TjÃ¤llmo-GodegÃ¥rds OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -53410,7 +53410,7 @@
 </Person>
 <Club>
 <ClubId>2900</ClubId>
-<Name>Länna IF</Name>
+<Name>LÃ¤nna IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -53790,7 +53790,7 @@
 </Person>
 <Club>
 <ClubId>3202</ClubId>
-<Name>Nyköpings OK</Name>
+<Name>NykÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -54075,7 +54075,7 @@
 </Person>
 <Club>
 <ClubId>37009</ClubId>
-<Name>Hjärnarps GH OL</Name>
+<Name>HjÃ¤rnarps GH OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -54265,7 +54265,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -54537,7 +54537,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -54631,7 +54631,7 @@
 </Person>
 <Club>
 <ClubId>1881</ClubId>
-<Name>Gävle OK</Name>
+<Name>GÃ¤vle OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -54726,7 +54726,7 @@
 </Person>
 <Club>
 <ClubId>4658</ClubId>
-<Name>Ärla IF</Name>
+<Name>Ã„rla IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -54811,7 +54811,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Boström</Family>
+<Family>BostrÃ¶m</Family>
 <Given sequence="1">Olle</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -54821,7 +54821,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -55106,7 +55106,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -55486,7 +55486,7 @@
 </Person>
 <Club>
 <ClubId>30254</ClubId>
-<Name>Boxholm-Mjölby OL</Name>
+<Name>Boxholm-MjÃ¶lby OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -55771,7 +55771,7 @@
 </Person>
 <Club>
 <ClubId>30254</ClubId>
-<Name>Boxholm-Mjölby OL</Name>
+<Name>Boxholm-MjÃ¶lby OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -55961,7 +55961,7 @@
 </Person>
 <Club>
 <ClubId>1317</ClubId>
-<Name>Bromma-Vällingby SOK</Name>
+<Name>Bromma-VÃ¤llingby SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -56151,7 +56151,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -56246,7 +56246,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -56531,7 +56531,7 @@
 </Person>
 <Club>
 <ClubId>4538</ClubId>
-<Name>Växjö OK</Name>
+<Name>VÃ¤xjÃ¶ OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -56616,7 +56616,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Melén</Family>
+<Family>MelÃ©n</Family>
 <Given sequence="1">Erik</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -56816,7 +56816,7 @@
 </Person>
 <Club>
 <ClubId>23112</ClubId>
-<Name>Köping-Kolsva OK</Name>
+<Name>KÃ¶ping-Kolsva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -57006,7 +57006,7 @@
 </Person>
 <Club>
 <ClubId>34770</ClubId>
-<Name>Södertälje-Nykvar</Name>
+<Name>SÃ¶dertÃ¤lje-Nykvar</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -57091,7 +57091,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Nordström</Family>
+<Family>NordstrÃ¶m</Family>
 <Given sequence="1">Gustav</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -57101,7 +57101,7 @@
 </Person>
 <Club>
 <ClubId>1881</ClubId>
-<Name>Gävle OK</Name>
+<Name>GÃ¤vle OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -57196,7 +57196,7 @@
 </Person>
 <Club>
 <ClubId>24764</ClubId>
-<Name>Korsnäs IF OK</Name>
+<Name>KorsnÃ¤s IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -57376,7 +57376,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Holmström</Family>
+<Family>HolmstrÃ¶m</Family>
 <Given sequence="1">David</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -57481,7 +57481,7 @@
 </Person>
 <Club>
 <ClubId>4658</ClubId>
-<Name>Ärla IF</Name>
+<Name>Ã„rla IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -57671,7 +57671,7 @@
 </Person>
 <Club>
 <ClubId>4478</ClubId>
-<Name>Vänersborgs SK</Name>
+<Name>VÃ¤nersborgs SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -57757,7 +57757,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Westerlund</Family>
-<Given sequence="1">Pär</Given>
+<Given sequence="1">PÃ¤r</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -57766,7 +57766,7 @@
 </Person>
 <Club>
 <ClubId>37670</ClubId>
-<Name>Midälva OK</Name>
+<Name>MidÃ¤lva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -57851,7 +57851,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Björkman</Family>
+<Family>BjÃ¶rkman</Family>
 <Given sequence="1">Tim</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -57946,7 +57946,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Wikström</Family>
+<Family>WikstrÃ¶m</Family>
 <Given sequence="1">Johan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -58051,7 +58051,7 @@
 </Person>
 <Club>
 <ClubId>2663</ClubId>
-<Name>Kungälvs OK</Name>
+<Name>KungÃ¤lvs OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -58434,7 +58434,7 @@
 </Person>
 <Club>
 <ClubId>1476</ClubId>
-<Name>Eksjö SOK</Name>
+<Name>EksjÃ¶ SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -58519,7 +58519,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Attås</Family>
+<Family>AttÃ¥s</Family>
 <Given sequence="1">Daniel</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -58909,7 +58909,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -59089,7 +59089,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Östlin</Family>
+<Family>Ã–stlin</Family>
 <Given sequence="1">Anton</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -59099,7 +59099,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -59184,7 +59184,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lännevall</Family>
+<Family>LÃ¤nnevall</Family>
 <Given sequence="1">Joel</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -59574,7 +59574,7 @@
 </Person>
 <Club>
 <ClubId>3633</ClubId>
-<Name>Skogslöparna</Name>
+<Name>SkogslÃ¶parna</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -59859,7 +59859,7 @@
 </Person>
 <Club>
 <ClubId>4092</ClubId>
-<Name>Tjällmo-Godegårds OK</Name>
+<Name>TjÃ¤llmo-GodegÃ¥rds OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -60134,7 +60134,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sjöholm</Family>
+<Family>SjÃ¶holm</Family>
 <Given sequence="1">Richard</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -60144,7 +60144,7 @@
 </Person>
 <Club>
 <ClubId>3373</ClubId>
-<Name>Ringsjö OK</Name>
+<Name>RingsjÃ¶ OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -60325,7 +60325,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Norman</Family>
-<Given sequence="1">Björn</Given>
+<Given sequence="1">BjÃ¶rn</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -60334,7 +60334,7 @@
 </Person>
 <Club>
 <ClubId>12804</ClubId>
-<Name>KFUM Örebro OK</Name>
+<Name>KFUM Ã–rebro OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -60429,7 +60429,7 @@
 </Person>
 <Club>
 <ClubId>4478</ClubId>
-<Name>Vänersborgs SK</Name>
+<Name>VÃ¤nersborgs SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -60514,7 +60514,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Millegård</Family>
+<Family>MillegÃ¥rd</Family>
 <Given sequence="1">Joakim</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -60524,7 +60524,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -60609,7 +60609,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lidström</Family>
+<Family>LidstrÃ¶m</Family>
 <Given sequence="1">Johan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -60619,7 +60619,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -60714,7 +60714,7 @@
 </Person>
 <Club>
 <ClubId>2378</ClubId>
-<Name>IK Jarl Rättvik</Name>
+<Name>IK Jarl RÃ¤ttvik</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -60799,7 +60799,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Boström</Family>
+<Family>BostrÃ¶m</Family>
 <Given sequence="1">Erik</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -60809,7 +60809,7 @@
 </Person>
 <Club>
 <ClubId>30253</ClubId>
-<Name>Järla IF OK</Name>
+<Name>JÃ¤rla IF OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -60999,7 +60999,7 @@
 </Person>
 <Club>
 <ClubId>37009</ClubId>
-<Name>Hjärnarps GH OL</Name>
+<Name>HjÃ¤rnarps GH OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -61180,7 +61180,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Karlsson</Family>
-<Given sequence="1">Göran</Given>
+<Given sequence="1">GÃ¶ran</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -61189,7 +61189,7 @@
 </Person>
 <Club>
 <ClubId>23110</ClubId>
-<Name>Umeå OK</Name>
+<Name>UmeÃ¥ OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -61750,7 +61750,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Thorén</Family>
+<Family>ThorÃ©n</Family>
 <Given sequence="1">Julia</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -61760,7 +61760,7 @@
 </Person>
 <Club>
 <ClubId>1476</ClubId>
-<Name>Eksjö SOK</Name>
+<Name>EksjÃ¶ SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -61839,7 +61839,7 @@
 </Person>
 <Club>
 <ClubId>2691</ClubId>
-<Name>OK Kåre</Name>
+<Name>OK KÃ¥re</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -61918,7 +61918,7 @@
 </Person>
 <Club>
 <ClubId>4092</ClubId>
-<Name>Tjällmo-Godegårds OK</Name>
+<Name>TjÃ¤llmo-GodegÃ¥rds OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -61987,7 +61987,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Söderlund</Family>
+<Family>SÃ¶derlund</Family>
 <Given sequence="1">Helene</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -62382,7 +62382,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Börjars</Family>
+<Family>BÃ¶rjars</Family>
 <Given sequence="1">Linnea</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -62471,7 +62471,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -62540,7 +62540,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Aspnäs</Family>
+<Family>AspnÃ¤s</Family>
 <Given sequence="1">Frida</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -62550,7 +62550,7 @@
 </Person>
 <Club>
 <ClubId>3550</ClubId>
-<Name>Sidensjö IK</Name>
+<Name>SidensjÃ¶ IK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -62619,7 +62619,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Rönnols</Family>
+<Family>RÃ¶nnols</Family>
 <Given sequence="1">Linn</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -62629,7 +62629,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -62698,7 +62698,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Wåhlberg</Family>
+<Family>WÃ¥hlberg</Family>
 <Given sequence="1">Stina</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -62708,7 +62708,7 @@
 </Person>
 <Club>
 <ClubId>2691</ClubId>
-<Name>OK Kåre</Name>
+<Name>OK KÃ¥re</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -62787,7 +62787,7 @@
 </Person>
 <Club>
 <ClubId>2691</ClubId>
-<Name>OK Kåre</Name>
+<Name>OK KÃ¥re</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -63024,7 +63024,7 @@
 </Person>
 <Club>
 <ClubId>30254</ClubId>
-<Name>Boxholm-Mjölby OL</Name>
+<Name>Boxholm-MjÃ¶lby OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -63182,7 +63182,7 @@
 </Person>
 <Club>
 <ClubId>4205</ClubId>
-<Name>Söders SOL Tyresö</Name>
+<Name>SÃ¶ders SOL TyresÃ¶</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -63340,7 +63340,7 @@
 </Person>
 <Club>
 <ClubId>3636</ClubId>
-<Name>OK Skogsstjärnan</Name>
+<Name>OK SkogsstjÃ¤rnan</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -63498,7 +63498,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -63646,7 +63646,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Engström</Family>
+<Family>EngstrÃ¶m</Family>
 <Given sequence="1">Jonna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -63972,7 +63972,7 @@
 </Person>
 <Club>
 <ClubId>3598</ClubId>
-<Name>Skarpnäcks OL</Name>
+<Name>SkarpnÃ¤cks OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -64209,7 +64209,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -64367,7 +64367,7 @@
 </Person>
 <Club>
 <ClubId>22386</ClubId>
-<Name>IFK Lidingös Skid o OK</Name>
+<Name>IFK LidingÃ¶s Skid o OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -64594,7 +64594,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Åkesson</Family>
+<Family>Ã…kesson</Family>
 <Given sequence="1">Ida</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -64762,7 +64762,7 @@
 </Person>
 <Club>
 <ClubId>1035</ClubId>
-<Name>Alfta-Ösa OK</Name>
+<Name>Alfta-Ã–sa OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -64911,7 +64911,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Lundmark</Family>
-<Given sequence="1">Åsa</Given>
+<Given sequence="1">Ã…sa</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -64920,7 +64920,7 @@
 </Person>
 <Club>
 <ClubId>1317</ClubId>
-<Name>Bromma-Vällingby SOK</Name>
+<Name>Bromma-VÃ¤llingby SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -64990,7 +64990,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lönnkvist</Family>
+<Family>LÃ¶nnkvist</Family>
 <Given sequence="1">Jenny</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -65158,7 +65158,7 @@
 </Person>
 <Club>
 <ClubId>28947</ClubId>
-<Name>Göteborg-Majorna OK</Name>
+<Name>GÃ¶teborg-Majorna OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -65237,7 +65237,7 @@
 </Person>
 <Club>
 <ClubId>37670</ClubId>
-<Name>Midälva OK</Name>
+<Name>MidÃ¤lva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -65316,7 +65316,7 @@
 </Person>
 <Club>
 <ClubId>2892</ClubId>
-<Name>Långhundra IF</Name>
+<Name>LÃ¥nghundra IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -65395,7 +65395,7 @@
 </Person>
 <Club>
 <ClubId>1681</ClubId>
-<Name>Främmestads IK</Name>
+<Name>FrÃ¤mmestads IK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -65711,7 +65711,7 @@
 </Person>
 <Club>
 <ClubId>37670</ClubId>
-<Name>Midälva OK</Name>
+<Name>MidÃ¤lva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -65859,7 +65859,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Österberg</Family>
+<Family>Ã–sterberg</Family>
 <Given sequence="1">Matilda</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -65869,7 +65869,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -65938,7 +65938,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Häggström</Family>
+<Family>HÃ¤ggstrÃ¶m</Family>
 <Given sequence="1">Stina</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -66017,7 +66017,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Sunnerheim Sjöberg</Family>
+<Family>Sunnerheim SjÃ¶berg</Family>
 <Given sequence="1">Hanna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -66027,7 +66027,7 @@
 </Person>
 <Club>
 <ClubId>1696</ClubId>
-<Name>OK Linné</Name>
+<Name>OK LinnÃ©</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -66097,7 +66097,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Johnsson</Family>
-<Given sequence="1">Linnéa</Given>
+<Given sequence="1">LinnÃ©a</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -66264,7 +66264,7 @@
 </Person>
 <Club>
 <ClubId>1476</ClubId>
-<Name>Eksjö SOK</Name>
+<Name>EksjÃ¶ SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -66501,7 +66501,7 @@
 </Person>
 <Club>
 <ClubId>23112</ClubId>
-<Name>Köping-Kolsva OK</Name>
+<Name>KÃ¶ping-Kolsva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -66659,7 +66659,7 @@
 </Person>
 <Club>
 <ClubId>2415</ClubId>
-<Name>Järfälla OK</Name>
+<Name>JÃ¤rfÃ¤lla OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -66807,7 +66807,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lönnkvist</Family>
+<Family>LÃ¶nnkvist</Family>
 <Given sequence="1">Johanna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -67054,7 +67054,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -67212,7 +67212,7 @@
 </Person>
 <Club>
 <ClubId>3803</ClubId>
-<Name>Stigmännen Karlshamns OK</Name>
+<Name>StigmÃ¤nnen Karlshamns OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -67281,7 +67281,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Törnroth</Family>
+<Family>TÃ¶rnroth</Family>
 <Given sequence="1">Elin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -67449,7 +67449,7 @@
 </Person>
 <Club>
 <ClubId>24013</ClubId>
-<Name>OK Kolmården</Name>
+<Name>OK KolmÃ¥rden</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -67686,7 +67686,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -67765,7 +67765,7 @@
 </Person>
 <Club>
 <ClubId>2155</ClubId>
-<Name>Härlövs IF</Name>
+<Name>HÃ¤rlÃ¶vs IF</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -67834,7 +67834,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Dölerud</Family>
+<Family>DÃ¶lerud</Family>
 <Given sequence="1">Elin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -68081,7 +68081,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -68221,7 +68221,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Löfgren</Family>
+<Family>LÃ¶fgren</Family>
 <Given sequence="1">Sandra</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -68310,7 +68310,7 @@
 </Person>
 <Club>
 <ClubId>28903</ClubId>
-<Name>Västerbergslagens OL</Name>
+<Name>VÃ¤sterbergslagens OL</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -68379,7 +68379,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Törnqvist</Family>
+<Family>TÃ¶rnqvist</Family>
 <Given sequence="1">Sofia</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -68616,7 +68616,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Vångell</Family>
+<Family>VÃ¥ngell</Family>
 <Given sequence="1">Fredrika</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -68626,7 +68626,7 @@
 </Person>
 <Club>
 <ClubId>2807</ClubId>
-<Name>Linköpings OK</Name>
+<Name>LinkÃ¶pings OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -68863,7 +68863,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -68942,7 +68942,7 @@
 </Person>
 <Club>
 <ClubId>3725</ClubId>
-<Name>Snättringe SK</Name>
+<Name>SnÃ¤ttringe SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -69021,7 +69021,7 @@
 </Person>
 <Club>
 <ClubId>26613</ClubId>
-<Name>Täby OK</Name>
+<Name>TÃ¤by OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -69337,7 +69337,7 @@
 </Person>
 <Club>
 <ClubId>23112</ClubId>
-<Name>Köping-Kolsva OK</Name>
+<Name>KÃ¶ping-Kolsva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -69416,7 +69416,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -69574,7 +69574,7 @@
 </Person>
 <Club>
 <ClubId>3973</ClubId>
-<Name>Sävedalens AIK</Name>
+<Name>SÃ¤vedalens AIK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -69732,7 +69732,7 @@
 </Person>
 <Club>
 <ClubId>12804</ClubId>
-<Name>KFUM Örebro OK</Name>
+<Name>KFUM Ã–rebro OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -69811,7 +69811,7 @@
 </Person>
 <Club>
 <ClubId>2771</ClubId>
-<Name>Lidköpings Vinter-SK</Name>
+<Name>LidkÃ¶pings Vinter-SK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -69890,7 +69890,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -69959,7 +69959,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lidström</Family>
+<Family>LidstrÃ¶m</Family>
 <Given sequence="1">Johanna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -70117,7 +70117,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Löfgren</Family>
+<Family>LÃ¶fgren</Family>
 <Given sequence="1">Kristin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -70127,7 +70127,7 @@
 </Person>
 <Club>
 <ClubId>2415</ClubId>
-<Name>Järfälla OK</Name>
+<Name>JÃ¤rfÃ¤lla OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -70443,7 +70443,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -70591,7 +70591,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Dovåker-Liss</Family>
+<Family>DovÃ¥ker-Liss</Family>
 <Given sequence="1">Maria</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -70996,7 +70996,7 @@
 </Person>
 <Club>
 <ClubId>37670</ClubId>
-<Name>Midälva OK</Name>
+<Name>MidÃ¤lva OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -71144,7 +71144,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Brammås</Family>
+<Family>BrammÃ¥s</Family>
 <Given sequence="1">Anna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -71154,7 +71154,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -71233,7 +71233,7 @@
 </Person>
 <Club>
 <ClubId>3451</ClubId>
-<Name>Rävetofta OK</Name>
+<Name>RÃ¤vetofta OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -71302,7 +71302,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Söderlund</Family>
+<Family>SÃ¶derlund</Family>
 <Given sequence="1">Agnes</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -71381,7 +71381,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Svärd</Family>
+<Family>SvÃ¤rd</Family>
 <Given sequence="1">Anna</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -71470,7 +71470,7 @@
 </Person>
 <Club>
 <ClubId>3803</ClubId>
-<Name>Stigmännen Karlshamns OK</Name>
+<Name>StigmÃ¤nnen Karlshamns OK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />
@@ -71540,7 +71540,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Holmgren</Family>
-<Given sequence="1">Åsa</Given>
+<Given sequence="1">Ã…sa</Given>
 </PersonName>
 <PersonId></PersonId>
 <BirthDate>
@@ -71549,7 +71549,7 @@
 </Person>
 <Club>
 <ClubId>24294</ClubId>
-<Name>Västerås SOK</Name>
+<Name>VÃ¤sterÃ¥s SOK</Name>
 <ShortName />
 <Country>
 <CountryId value="other" />

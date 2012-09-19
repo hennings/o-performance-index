@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -422,7 +422,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Müller</Family>
+<Family>MÃ¼ller</Family>
 <Given sequence="1">Matthias</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -821,8 +821,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Král</Family>
-<Given sequence="1">Vojtìch</Given>
+<Family>KrÃ¡l</Family>
+<Given sequence="1">VojtÃ¬ch</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -3614,7 +3614,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öberg</Family>
+<Family>Ã–berg</Family>
 <Given sequence="1">Peter</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -4013,8 +4013,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Østerbø</Family>
-<Given sequence="1">Øystein Kvaal</Given>
+<Family>Ã˜sterbÃ¸</Family>
+<Given sequence="1">Ã˜ystein Kvaal</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -4412,7 +4412,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Kärner</Family>
+<Family>KÃ¤rner</Family>
 <Given sequence="1">Olle</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -6646,7 +6646,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Chataing</Family>
-<Given sequence="1">Amélie</Given>
+<Given sequence="1">AmÃ©lie</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -6758,7 +6758,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Safka Brožková</Family>
+<Family>Safka BroÂžkovÃ¡</Family>
 <Given sequence="1">Dana</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -7663,7 +7663,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Bagstevold</Family>
-<Given sequence="1">Heidi Østlid</Given>
+<Given sequence="1">Heidi Ã˜stlid</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -8001,7 +8001,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lüscher</Family>
+<Family>LÃ¼scher</Family>
 <Given sequence="1">Sara</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -8567,7 +8567,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Sund</Family>
-<Given sequence="1">Gøril Rønning</Given>
+<Given sequence="1">GÃ¸ril RÃ¸nning</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -255,7 +255,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Müller</Family>
+<Family>MÃ¼ller</Family>
 <Given sequence="1">Matthias</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -603,7 +603,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Mäkelä</Family>
+<Family>MÃ¤kelÃ¤</Family>
 <Given sequence="1">Tuomo</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -949,7 +949,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Bobach</Family>
-<Given sequence="1">Søren</Given>
+<Given sequence="1">SÃ¸ren</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -1064,7 +1064,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Král</Family>
+<Family>KrÃ¡l</Family>
 <Given sequence="1">Vojtech</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -1761,7 +1761,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Dlabaja</Family>
-<Given sequence="1">Tomáš</Given>
+<Given sequence="1">TomÃ¡Âš</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -2917,7 +2917,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Procházka</Family>
+<Family>ProchÃ¡zka</Family>
 <Given sequence="1">Jan</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -4657,7 +4657,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Krüger</Family>
+<Family>KrÃ¼ger</Family>
 <Given sequence="1">Robert</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -7014,7 +7014,7 @@
 <Person sex="F">
 <PersonName>
 <Family>Bagstevold</Family>
-<Given sequence="1">Heidi Østlid</Given>
+<Given sequence="1">Heidi Ã˜stlid</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -7125,7 +7125,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Duchová</Family>
+<Family>DuchovÃ¡</Family>
 <Given sequence="1">Iveta</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -8690,7 +8690,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Ražaityte</Family>
+<Family>RaÂžaityte</Family>
 <Given sequence="1">Gabija</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -9475,7 +9475,7 @@
 <Person sex="F">
 <PersonName>
 <Family>Chataing</Family>
-<Given sequence="1">Amélie</Given>
+<Given sequence="1">AmÃ©lie</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -10034,7 +10034,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Jureníková</Family>
+<Family>JurenÃ­kovÃ¡</Family>
 <Given sequence="1">Eva</Given>
 </PersonName>
 <PersonId>0</PersonId>

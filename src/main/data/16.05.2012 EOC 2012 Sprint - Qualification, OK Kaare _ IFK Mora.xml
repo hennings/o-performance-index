@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -11,7 +11,7 @@
 <Organiser>
 <Club>
 <ClubId></ClubId>
-<Name>OK Kåre / IFK Mora</Name>
+<Name>OK KÃ¥re / IFK Mora</Name>
 <ShortName />
 <Country>
 <CountryId value="SWE" />
@@ -794,7 +794,7 @@
 <Person>
 <PersonName>
 <Family>Sund</Family>
-<Given sequence="1">Gøril Rønning</Given>
+<Given sequence="1">GÃ¸ril RÃ¸nning</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -1082,7 +1082,7 @@
 <Person>
 <PersonName>
 <Family>Vercellotti</Family>
-<Given sequence="1">Léa</Given>
+<Given sequence="1">LÃ©a</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -1757,7 +1757,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>O´boyle</Family>
+<Family>OÂ´boyle</Family>
 <Given sequence="1">Niamh</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -2528,7 +2528,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Müller</Family>
+<Family>MÃ¼ller</Family>
 <Given sequence="1">Matthias</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -2624,8 +2624,8 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Østerbø</Family>
-<Given sequence="1">Øystein Kvaal</Given>
+<Family>Ã˜sterbÃ¸</Family>
+<Given sequence="1">Ã˜ystein Kvaal</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -2912,7 +2912,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Dæhli</Family>
+<Family>DÃ¦hli</Family>
 <Given sequence="1">Magne</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -4544,7 +4544,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Lützkendorf</Family>
+<Family>LÃ¼tzkendorf</Family>
 <Given sequence="1">Paul</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -5558,7 +5558,7 @@
 <Person>
 <PersonName>
 <Family>Alm</Family>
-<Given sequence="1">Maja Møller</Given>
+<Given sequence="1">Maja MÃ¸ller</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -5878,7 +5878,7 @@
 <Person>
 <PersonName>
 <Family>Chataing</Family>
-<Given sequence="1">Amélie</Given>
+<Given sequence="1">AmÃ©lie</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -6277,7 +6277,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Rybakovaité</Family>
+<Family>RybakovaitÃ©</Family>
 <Given sequence="1">Kristina</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -6357,7 +6357,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Månsson</Family>
+<Family>MÃ¥nsson</Family>
 <Given sequence="1">Elin</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -6601,7 +6601,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Gyurkó</Family>
+<Family>GyurkÃ³</Family>
 <Given sequence="1">Fanni</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -7085,8 +7085,8 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Üzen</Family>
-<Given sequence="1">Sengül</Given>
+<Family>Ãœzen</Family>
+<Given sequence="1">SengÃ¼l</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -7974,7 +7974,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Mäkelä</Family>
+<Family>MÃ¤kelÃ¤</Family>
 <Given sequence="1">Tuomo</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -8263,7 +8263,7 @@
 <Person>
 <PersonName>
 <Family>Tranchand</Family>
-<Given sequence="1">Frédéric</Given>
+<Given sequence="1">FrÃ©dÃ©ric</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -9514,8 +9514,8 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Kerényi</Family>
-<Given sequence="1">Máté</Given>
+<Family>KerÃ©nyi</Family>
+<Given sequence="1">MÃ¡tÃ©</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -10282,7 +10282,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>UÇAR</Family>
+<Family>UÃ‡AR</Family>
 <Given sequence="1">Ali</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -11149,7 +11149,7 @@
 <Person>
 <PersonName>
 <Family>Bagstevold</Family>
-<Given sequence="1">Heidi Østlid</Given>
+<Given sequence="1">Heidi Ã˜stlid</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -11401,7 +11401,7 @@
 <Person>
 <PersonName>
 <Family>Kutkaite</Family>
-<Given sequence="1">Aušriné</Given>
+<Given sequence="1">AuÂšrinÃ©</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -12240,7 +12240,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Günaydin</Family>
+<Family>GÃ¼naydin</Family>
 <Given sequence="1">Selvihan</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -13242,7 +13242,7 @@
 <Person>
 <PersonName>
 <Family>Ekeberg</Family>
-<Given sequence="1">Bjørn</Given>
+<Given sequence="1">BjÃ¸rn</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -13913,7 +13913,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Krepšta</Family>
+<Family>KrepÂšta</Family>
 <Given sequence="1">Simonas</Given>
 </PersonName>
 <PersonId>0</PersonId>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -432,7 +432,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Johan Näsman</Given>
+<Given sequence="1">Johan NÃ¤sman</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -636,7 +636,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Jörgen Olsson</Given>
+<Given sequence="1">JÃ¶rgen Olsson</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -942,7 +942,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Øystein Kristiansen</Given>
+<Given sequence="1">Ã˜ystein Kristiansen</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -2268,7 +2268,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Olle Kärner</Given>
+<Given sequence="1">Olle KÃ¤rner</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -2574,7 +2574,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Carsten Jørgensen</Given>
+<Given sequence="1">Carsten JÃ¸rgensen</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -3390,7 +3390,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Marek Nömm</Given>
+<Given sequence="1">Marek NÃ¶mm</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -5079,7 +5079,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Vroni König-Salmi</Given>
+<Given sequence="1">Vroni KÃ¶nig-Salmi</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -5361,7 +5361,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Lina Bäckström</Given>
+<Given sequence="1">Lina BÃ¤ckstrÃ¶m</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -5549,7 +5549,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Käthi Widler</Given>
+<Given sequence="1">KÃ¤thi Widler</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -7147,7 +7147,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Signe Søes</Given>
+<Given sequence="1">Signe SÃ¸es</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -8651,7 +8651,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Gunilla Svärd</Given>
+<Given sequence="1">Gunilla SvÃ¤rd</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>

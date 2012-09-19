@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -311,7 +311,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Král</Family>
+<Family>KrÃ¡l</Family>
 <Given sequence="1">Vojtech</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -408,7 +408,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Bobach</Family>
-<Given sequence="1">Søren</Given>
+<Given sequence="1">SÃ¸ren</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -791,8 +791,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Matjaž</Family>
-<Given sequence="1">Štanfel</Given>
+<Family>MatjaÂž</Family>
+<Given sequence="1">ÂŠtanfel</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -1655,7 +1655,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Bukovác</Family>
+<Family>BukovÃ¡c</Family>
 <Given sequence="1">Pavol</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -2517,7 +2517,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Hribar</Family>
-<Given sequence="1">Andraž</Given>
+<Given sequence="1">AndraÂž</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -2801,8 +2801,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Lösch</Family>
-<Given sequence="1">Sören</Given>
+<Family>LÃ¶sch</Family>
+<Given sequence="1">SÃ¶ren</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -3090,7 +3090,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Maksimovic</Family>
-<Given sequence="1">Blažo</Given>
+<Given sequence="1">BlaÂžo</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -4521,7 +4521,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Šafka Brožková</Family>
+<Family>ÂŠafka BroÂžkovÃ¡</Family>
 <Given sequence="1">Dana</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -5249,7 +5249,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Tröße</Family>
+<Family>TrÃ¶ÃŸe</Family>
 <Given sequence="1">Christiane</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -6081,7 +6081,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Fernández-Valledor</Family>
+<Family>FernÃ¡ndez-Valledor</Family>
 <Given sequence="1">Annabel</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -7683,7 +7683,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Procházka</Family>
+<Family>ProchÃ¡zka</Family>
 <Given sequence="1">Jan</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -8925,8 +8925,8 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Dávidík</Family>
-<Given sequence="1">Marián</Given>
+<Family>DÃ¡vidÃ­k</Family>
+<Given sequence="1">MariÃ¡n</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -9598,7 +9598,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Leal</Family>
-<Given sequence="1">Tiago Gingão</Given>
+<Given sequence="1">Tiago GingÃ£o</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -11211,7 +11211,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Lüscher</Family>
+<Family>LÃ¼scher</Family>
 <Given sequence="1">Sara</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -12251,7 +12251,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Arqués</Family>
+<Family>ArquÃ©s</Family>
 <Given sequence="1">Anna Serrallonga</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -12667,7 +12667,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Bochenková</Family>
+<Family>BochenkovÃ¡</Family>
 <Given sequence="1">Ivana</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -14278,7 +14278,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Öberg</Family>
+<Family>Ã–berg</Family>
 <Given sequence="1">Peter</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -14758,7 +14758,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Krajcík</Family>
+<Family>KrajcÃ­k</Family>
 <Given sequence="1">Michal</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -14854,7 +14854,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Kärner</Family>
+<Family>KÃ¤rner</Family>
 <Given sequence="1">Olle</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -15622,7 +15622,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Kubát</Family>
+<Family>KubÃ¡t</Family>
 <Given sequence="1">Pavel</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -17967,7 +17967,7 @@
 <Person sex="F">
 <PersonName>
 <Family>Chataing</Family>
-<Given sequence="1">Amélie</Given>
+<Given sequence="1">AmÃ©lie</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -18070,7 +18070,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Duchová</Family>
+<Family>DuchovÃ¡</Family>
 <Given sequence="1">Iveta</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -18175,7 +18175,7 @@
 <Person sex="F">
 <PersonName>
 <Family>Bagstevold</Family>
-<Given sequence="1">Heidi Østlid</Given>
+<Given sequence="1">Heidi Ã˜stlid</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -19107,7 +19107,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Ražaityte</Family>
+<Family>RaÂžaityte</Family>
 <Given sequence="1">Gabija</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -19627,7 +19627,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Fabré</Family>
+<Family>FabrÃ©</Family>
 <Given sequence="1">Miek</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -20668,7 +20668,7 @@
 <Person sex="F">
 <PersonName>
 <Family>De Carvalho</Family>
-<Given sequence="1">Tânia Maria J.</Given>
+<Given sequence="1">TÃ¢nia Maria J.</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>

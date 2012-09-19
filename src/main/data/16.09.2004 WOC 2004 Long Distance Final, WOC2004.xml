@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -25,7 +25,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Bjørnar Valstad</Given>
+<Given sequence="1">BjÃ¸rnar Valstad</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1279,7 +1279,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Olle Kärner</Given>
+<Given sequence="1">Olle KÃ¤rner</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -3217,7 +3217,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Carsten Jørgensen</Given>
+<Given sequence="1">Carsten JÃ¸rgensen</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -4888,7 +4888,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Karolina A Höjsgaard</Given>
+<Given sequence="1">Karolina A HÃ¶jsgaard</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -5833,7 +5833,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Gunilla Svärd</Given>
+<Given sequence="1">Gunilla SvÃ¤rd</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -7618,7 +7618,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Brigitte Grüniger</Given>
+<Given sequence="1">Brigitte GrÃ¼niger</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -8143,7 +8143,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Signe Søes</Given>
+<Given sequence="1">Signe SÃ¸es</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -8983,7 +8983,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Alison O´Neil</Given>
+<Given sequence="1">Alison OÂ´Neil</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>

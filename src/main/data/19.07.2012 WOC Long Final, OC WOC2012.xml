@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -1780,7 +1780,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Šedivý</Family>
+<Family>ÂŠedivÃ½</Family>
 <Given sequence="1">Jan</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -2738,7 +2738,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Dlabaja</Family>
-<Given sequence="1">Tomáš</Given>
+<Given sequence="1">TomÃ¡Âš</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -4975,7 +4975,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Kodeda</Family>
-<Given sequence="1">Štepán</Given>
+<Given sequence="1">ÂŠtepÃ¡n</Given>
 </PersonName>
 <PersonId>0</PersonId>
 <BirthDate>
@@ -7783,7 +7783,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Jureníková</Family>
+<Family>JurenÃ­kovÃ¡</Family>
 <Given sequence="1">Eva</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -8423,7 +8423,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Lüscher</Family>
+<Family>LÃ¼scher</Family>
 <Given sequence="1">Sara</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -9188,7 +9188,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Klechová</Family>
+<Family>KlechovÃ¡</Family>
 <Given sequence="1">Vendula</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -9444,7 +9444,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Šafka Brožková</Family>
+<Family>ÂŠafka BroÂžkovÃ¡</Family>
 <Given sequence="1">Dana</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -11105,7 +11105,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Fabré</Family>
+<Family>FabrÃ©</Family>
 <Given sequence="1">Miek</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -12001,7 +12001,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Arqués</Family>
+<Family>ArquÃ©s</Family>
 <Given sequence="1">Anna Serrallonga</Given>
 </PersonName>
 <PersonId>0</PersonId>

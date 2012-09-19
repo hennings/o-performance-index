@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -383,7 +383,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Kärner</Family>
+<Family>KÃ¤rner</Family>
 <Given sequence="1">Olle</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -564,7 +564,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Olsson</Family>
-<Given sequence="1">Jörgen</Given>
+<Given sequence="1">JÃ¶rgen</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1013,7 +1013,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Jørgensen</Family>
+<Family>JÃ¸rgensen</Family>
 <Given sequence="1">Carsten</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -1823,7 +1823,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Breitschädel</Family>
+<Family>BreitschÃ¤del</Family>
 <Given sequence="1">Felix</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -3235,7 +3235,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Näsman</Family>
+<Family>NÃ¤sman</Family>
 <Given sequence="1">Johan</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -3506,7 +3506,7 @@
 <Person sex="M">
 <PersonName>
 <Family>Kristiansen</Family>
-<Given sequence="1">Øystein</Given>
+<Given sequence="1">Ã˜ystein</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -5125,7 +5125,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Pasión</Family>
+<Family>PasiÃ³n</Family>
 <Given sequence="1">Pedro</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -7285,7 +7285,7 @@
 <PersonResult>
 <Person sex="M">
 <PersonName>
-<Family>Nömm</Family>
+<Family>NÃ¶mm</Family>
 <Given sequence="1">Marek</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -10063,7 +10063,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Søes</Family>
+<Family>SÃ¸es</Family>
 <Given sequence="1">Signe</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -12013,7 +12013,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Bäckström</Family>
+<Family>BÃ¤ckstrÃ¶m</Family>
 <Given sequence="1">Lina</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -12326,7 +12326,7 @@
 <Person sex="F">
 <PersonName>
 <Family>Widler</Family>
-<Given sequence="1">Käthi</Given>
+<Given sequence="1">KÃ¤thi</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -14112,7 +14112,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>Svärd</Family>
+<Family>SvÃ¤rd</Family>
 <Given sequence="1">Gunilla</Given>
 </PersonName>
 <PersonId></PersonId>
@@ -14190,7 +14190,7 @@
 <PersonResult>
 <Person sex="F">
 <PersonName>
-<Family>König-Salmi</Family>
+<Family>KÃ¶nig-Salmi</Family>
 <Given sequence="1">Vroni</Given>
 </PersonName>
 <PersonId></PersonId>

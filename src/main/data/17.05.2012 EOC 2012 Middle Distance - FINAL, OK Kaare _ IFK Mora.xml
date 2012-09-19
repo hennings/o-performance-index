@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -11,7 +11,7 @@
 <Organiser>
 <Club>
 <ClubId></ClubId>
-<Name>OK Kåre / IFK Mora</Name>
+<Name>OK KÃ¥re / IFK Mora</Name>
 <ShortName />
 <Country>
 <CountryId value="SWE" />
@@ -1142,7 +1142,7 @@
 <Person>
 <PersonName>
 <Family>Gonon</Family>
-<Given sequence="1">François</Given>
+<Given sequence="1">FranÃ§ois</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -1389,7 +1389,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Dæhli</Family>
+<Family>DÃ¦hli</Family>
 <Given sequence="1">Magne</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -2257,7 +2257,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Kärner</Family>
+<Family>KÃ¤rner</Family>
 <Given sequence="1">Olle</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -4614,7 +4614,7 @@
 <Person>
 <PersonName>
 <Family>Bobach</Family>
-<Given sequence="1">Søren</Given>
+<Given sequence="1">SÃ¸ren</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -5853,7 +5853,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Krepšta</Family>
+<Family>KrepÂšta</Family>
 <Given sequence="1">Simonas</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -7723,8 +7723,8 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Sørensen</Family>
-<Given sequence="1">Søren Schwartz</Given>
+<Family>SÃ¸rensen</Family>
+<Given sequence="1">SÃ¸ren Schwartz</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -7831,8 +7831,8 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Lösch</Family>
-<Given sequence="1">Sören</Given>
+<Family>LÃ¶sch</Family>
+<Given sequence="1">SÃ¶ren</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -9023,7 +9023,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Lützkendorf</Family>
+<Family>LÃ¼tzkendorf</Family>
 <Given sequence="1">Paul</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -12918,7 +12918,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>UÇAR</Family>
+<Family>UÃ‡AR</Family>
 <Given sequence="1">Ali</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -15663,7 +15663,7 @@
 <Person>
 <PersonName>
 <Family>Alm</Family>
-<Given sequence="1">Maja Møller</Given>
+<Given sequence="1">Maja MÃ¸ller</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -16702,7 +16702,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Lüscher</Family>
+<Family>LÃ¼scher</Family>
 <Given sequence="1">Sara</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -17015,7 +17015,7 @@
 <Person>
 <PersonName>
 <Family>Bagstevold</Family>
-<Given sequence="1">Heidi Østlid</Given>
+<Given sequence="1">Heidi Ã˜stlid</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -17326,7 +17326,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Rybakovaité</Family>
+<Family>RybakovaitÃ©</Family>
 <Given sequence="1">Kristina</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -17535,7 +17535,7 @@
 <Person>
 <PersonName>
 <Family>Kutkaite</Family>
-<Given sequence="1">Aušriné</Given>
+<Given sequence="1">AuÂšrinÃ©</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -17639,7 +17639,7 @@
 <Person>
 <PersonName>
 <Family>Dodin</Family>
-<Given sequence="1">Céline</Given>
+<Given sequence="1">CÃ©line</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -18054,7 +18054,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Ptašekaite</Family>
+<Family>PtaÂšekaite</Family>
 <Given sequence="1">Rasa</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -18679,7 +18679,7 @@
 <Person>
 <PersonName>
 <Family>Chataing</Family>
-<Given sequence="1">Amélie</Given>
+<Given sequence="1">AmÃ©lie</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -19198,7 +19198,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Paužaite</Family>
+<Family>PauÂžaite</Family>
 <Given sequence="1">Sandra</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -19406,8 +19406,8 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Bjørgul</Family>
-<Given sequence="1">Ida Marie Næss</Given>
+<Family>BjÃ¸rgul</Family>
+<Given sequence="1">Ida Marie NÃ¦ss</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -19911,7 +19911,7 @@
 <Person>
 <PersonName>
 <Family>Vercellotti</Family>
-<Given sequence="1">Léa</Given>
+<Given sequence="1">LÃ©a</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -20870,7 +20870,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Tröße</Family>
+<Family>TrÃ¶ÃŸe</Family>
 <Given sequence="1">Christiane</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -21350,7 +21350,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>O´boyle</Family>
+<Family>OÂ´boyle</Family>
 <Given sequence="1">Niamh</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -22022,7 +22022,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Günaydin</Family>
+<Family>GÃ¼naydin</Family>
 <Given sequence="1">Selvihan</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -22310,7 +22310,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Bertóti</Family>
+<Family>BertÃ³ti</Family>
 <Given sequence="1">Regina</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -22406,8 +22406,8 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Üzen</Family>
-<Given sequence="1">Sengül</Given>
+<Family>Ãœzen</Family>
+<Given sequence="1">SengÃ¼l</Given>
 </PersonName>
 <PersonId>0</PersonId>
 </Person>
@@ -22502,7 +22502,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Gyurkó</Family>
+<Family>GyurkÃ³</Family>
 <Given sequence="1">Fanni</Given>
 </PersonName>
 <PersonId>0</PersonId>
@@ -22913,7 +22913,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Kazlauskaité</Family>
+<Family>KazlauskaitÃ©</Family>
 <Given sequence="1">Inga</Given>
 </PersonName>
 <PersonId>0</PersonId>

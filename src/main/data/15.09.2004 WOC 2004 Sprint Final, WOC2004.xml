@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
 <ResultList status="complete">
 <IOFVersion version="2.0.3" />
@@ -91,7 +91,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Håkan Eriksson</Given>
+<Given sequence="1">HÃ¥kan Eriksson</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -223,7 +223,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Johan Näsman</Given>
+<Given sequence="1">Johan NÃ¤sman</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -355,7 +355,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Øystein Kvaal Østerb</Given>
+<Given sequence="1">Ã˜ystein Kvaal Ã˜sterb</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -421,7 +421,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Jørgen Rostrup</Given>
+<Given sequence="1">JÃ¸rgen Rostrup</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1081,7 +1081,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Mårten Boström</Given>
+<Given sequence="1">MÃ¥rten BostrÃ¶m</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1741,7 +1741,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Marek Nömm</Given>
+<Given sequence="1">Marek NÃ¶mm</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -1873,7 +1873,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Andreas Müller</Given>
+<Given sequence="1">Andreas MÃ¼ller</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -3053,7 +3053,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Karolina A Höjsgaard</Given>
+<Given sequence="1">Karolina A HÃ¶jsgaard</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -3242,7 +3242,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Anna Mårsell</Given>
+<Given sequence="1">Anna MÃ¥rsell</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -3494,7 +3494,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Vroni König-Salmi</Given>
+<Given sequence="1">Vroni KÃ¶nig-Salmi</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
@@ -3935,7 +3935,7 @@
 <Person>
 <PersonName>
 <Family />
-<Given sequence="1">Käthi Widler</Given>
+<Given sequence="1">KÃ¤thi Widler</Given>
 </PersonName>
 <PersonId></PersonId>
 </Person>
