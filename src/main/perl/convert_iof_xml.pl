@@ -21,6 +21,8 @@ my $event_name = $root->findvalue("//Event/Name");
 
 my @classes = $root->findnodes("ClassResult");
 
+my @all;
+
 foreach my $classn ( @classes ) {
 	my $classname = $classn->findvalue("ClassShortName");
 
@@ -38,10 +40,13 @@ foreach my $classn ( @classes ) {
 	my @splits_q25;
 
 	foreach my $pn (@persons) {
+		print STDERR "--new\n";
+
 	        my %person;
 		my $fn = $pn->findvalue("Person/PersonName/Family");
 		my $gn = $pn->findvalue("Person/PersonName/Given");
 		my $club = $pn->findvalue("Club/Name");
+
 		
 		my $starttime = $pn->findvalue("Result/StartTime/Clock");
 		my $result = $pn->findvalue("Result/Time/Clock");
@@ -55,16 +60,31 @@ foreach my $classn ( @classes ) {
 		my @ps = ();
 		my $cur = 0;my $prev = 0;
 		my $leg = 0;
+		my $tot = 0;
+		my $result_s = TimeLib::hms2sec($result);
+
 		foreach my $spln (@splits) {
   		        $leg++;
-			$cur = TimeLib::hms2sec($spln->findvalue("Time"));
+			my $time = $spln->findvalue("Time");
+			next unless ($time);
+			$cur = TimeLib::hms2sec($time);
 			my $diff = $cur - $prev;
+			$tot += $diff;
 			push (@ps, $diff);
 			$prev = $cur;
 			push @{$splits{$leg}}, $diff;
 		}
+		if ($tot < $result_s) {
+		        print STDERR "** Adding the last leg\n";
+		        my $diff = $result_s - $tot;
+			push (@ps, $diff);
+			push @{$splits{1+$leg}}, $diff;
+		} elsif ($tot > $result_s) {
+		        die "Strange data! $tot > $result_s\n";
+		}
+
 		  
-		print STDERR "$gn - ".scalar(@ps)."\n";
+		print STDERR "$gn $fn - ".scalar(@ps)."\n";
 		
 		$person{FamilyName} = $fn;
 		$person{GivenName} = $gn;
@@ -72,41 +92,71 @@ foreach my $classn ( @classes ) {
 		$person{Club} = $club;
 		$person{Starttime} = $starttime;
 		$person{Result} = $result;
-		$person{ResultTime} = TimeLib::hms2sec($result);
+		$person{ResultTime} = $result_s;
 		$person{Position} = $position;
 		$person{Status} = $status;
 		$person{Splits} = \@ps;
 
-		print "*** Record ***\n". YAML::Dump(\%person);
-
 		push @parsed_persons, \%person;
 
 	}		
-	print "** LegName\n";
+	print STDERR "** LegName\n";
 	foreach my $legname (sort {$a<=>$b} keys %splits) {
-	  print "Leg $legname\n";
+	  print STDERR "Leg $legname\n";
 	  my ($best, $avg25, $avg50, $avg) = find25avg($splits{$legname});
-	  print "$best - $avg25 - $avg50, $avg\n";
+	  print STDERR "$best - $avg25 - $avg50, $avg\n";
 	  push @splits_q25, $avg25;
 	}
 
+
 	foreach my $p (@parsed_persons) {
-	    print "$p->{Name}\n";
+	    my $pip;
+	    $pip->{Name} = $p->{Name};
+	    $pip->{ResultTime} = $p->{ResultTime};
+
+	    print STDERR "$p->{Name} / $p->{ResultTime}\n";
 	    my @sp = @{$p->{Splits}};
+	    my $partperf = 0.0;
 	    for (my $i = 0; $i<scalar(@sp); $i++) {
-		printf ("%d - %d => %3f %\n", $sp[$i],$splits_q25[$i],
-			100.0*$splits_q25[$i]/$sp[$i]);
+	        my $pi = $splits_q25[$i]/$sp[$i];
+		printf STDERR ("%d - %.2f \t=> %3.1f %\n", $sp[$i],$splits_q25[$i],
+			100.0 * $pi );
+		push @{$p->{PerfIndexList}}, $pi;
+		$partperf += ($sp[$i] / $p->{ResultTime}) * $pi;
+		push @{$p->{PerfIndexTuple}}, [$sp[$i], $pi]  ;
 	    }
+	    $p->{PerfIndex} = $partperf;
+	    $pip->{Race} = $filename;
+	    $pip->{PerfIndex} = $partperf;
+	    $pip->{PerfIndexList} = $p->{PerfIndexList};
+	    $pip->{Splits} = $p->{Splits};
+	    #	    push @all, $pip;
+	    printf ("%s;%s;%s;%d;%.5f;%s;%s;%d;%d\n",
+		    $pip->{Name},
+		    $pip->{Race},
+		    $p->{Club},
+		    $pip->{ResultTime},
+		    $pip->{PerfIndex},
+		    join(",", @{$pip->{Splits}}),
+		    join(",", @{$pip->{PerfIndexList}}),
+		    scalar(@{$pip->{Splits}}),
+		    scalar(@{$pip->{PerfIndexList}})
+		   );
+
+	    print STDERR "Total PerfIndex = $partperf\n";
 	}
-	exit;
+
 
 }
+
+#print YAML::Dump(@all);
+
 
 sub find25avg {
   my ($inp) = @_;
   my @splits =  sort {$a<=>$b}  @{$inp};
-  my $nq1 = int(scalar(@splits)/4);
-  my $nq2 = int(scalar(@splits)/2);
+  my $nq1 = int(0.99 + scalar(@splits)/4);
+  my $nq2 = int(0.5 + scalar(@splits)/2);
   my $best = $splits[0];
   my $sum = 0;
   my $cnt = 0;
