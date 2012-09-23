@@ -69,6 +69,9 @@ foreach my $classn ( @classes ) {
 			next unless ($time);
 			$cur = TimeLib::hms2sec($time);
 			my $diff = $cur - $prev;
+			if ($diff<0) {
+			  die "*** Negative split!!! $diff - $leg / $fn $gn\n";
+			}
 			$tot += $diff;
 			push (@ps, $diff);
 			$prev = $cur;
