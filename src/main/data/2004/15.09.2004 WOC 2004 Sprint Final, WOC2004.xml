@@ -1,0 +1,5821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
+<ResultList status="complete">
+<IOFVersion version="2.0.3" />
+<Event>
+<EventId></EventId>
+<Name>WOC 2004 Sprint Final</Name>
+<EventClassificationId>1</EventClassificationId>
+<StartDate><Date dateFormat="YYYY-MM-DD">2004-09-15</Date></StartDate>
+<FinishDate><Date dateFormat="YYYY-MM-DD">2004-09-15</Date></FinishDate>
+<Organiser>
+<Club>
+<ClubId></ClubId>
+<Name>WOC2004</Name>
+<ShortName />
+<Country>
+<CountryId value="SWE" />
+</Country>
+</Club>
+</Organiser>
+</Event>
+<ClassResult>
+<ClassShortName>Men Final</ClassShortName>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Niclas Jonasson</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Sweden</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:51:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:04:06</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:06</Clock>
+</Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:13</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:43</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:44</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:29</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:06</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:23</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:36</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:01</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:33</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:24</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:12:41</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:12:50</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Håkan Eriksson</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Sweden</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:53:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:06:09</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:09</Clock>
+</Time>
+<ResultPosition>2</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:14</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:41</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:38</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:21</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:04:58</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:28</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:32</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:00</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:31</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:21</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:12:42</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:12:52</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Yuri Omeltchenko</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Ukraine</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:52:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:05:09</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:09</Clock>
+</Time>
+<ResultPosition>2</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:13</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:46</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:40</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:29</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:07</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:35</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:43</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:08</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:36</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:23</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:12:41</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:12:53</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Johan Näsman</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Sweden</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">17:03:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:16:09</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:09</Clock>
+</Time>
+<ResultPosition>4</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:14</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:43</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:38</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:23</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:04:58</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:21</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:29</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:08:55</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:28</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:20</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:12:41</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:12:52</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Thierry Gueorgiou</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>France</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">17:04:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:17:10</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:10</Clock>
+</Time>
+<ResultPosition>5</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:11</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:45</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:39</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:22</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:04:59</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:32</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:37</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:05</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:36</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:29</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:12:45</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:12:55</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Øystein Kvaal Østerb</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Norway</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">17:01:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:14:14</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:14</Clock>
+</Time>
+<ResultPosition>6</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:12</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:40</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:37</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:22</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:06</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:31</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:43</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:08</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:39</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:26</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:12:48</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:12:59</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Jørgen Rostrup</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Norway</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:58:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:11:23</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:23</Clock>
+</Time>
+<ResultPosition>7</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:17</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:50</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:46</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:35</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:09</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:30</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:38</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:04</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:35</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:19</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:12:55</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:07</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Matthias Merz</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Switzerland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:56:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:09:30</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:30</Clock>
+</Time>
+<ResultPosition>8</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:12</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:42</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:42</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:24</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:04</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:34</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:45</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:12</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:48</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:37</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:04</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:15</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Daniel Hubmann</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Switzerland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:48:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:01:34</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:34</Clock>
+</Time>
+<ResultPosition>9</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:17</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:48</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:49</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:43</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:24</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:50</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:02</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:29</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:04</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:51</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:08</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:19</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Simonas Krepsta</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Lithuania</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:49:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:02:34</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:34</Clock>
+</Time>
+<ResultPosition>10</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:16</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:47</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:45</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:35</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:10</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:53</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:01</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:29</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:00</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:48</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:06</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:18</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Anders Nordberg</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Norway</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:50:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:03:38</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:38</Clock>
+</Time>
+<ResultPosition>11</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:17</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:44</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:46</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:29</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:05</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:28</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:52</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:20</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:55</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:46</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:11</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:21</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Mikkel Lund</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Denmark</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:43:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:56:42</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:42</Clock>
+</Time>
+<ResultPosition>12</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:19</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:51</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:50</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:36</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:12</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:47</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:04</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:29</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:02</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:53</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:17</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:27</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Sergey Detkov</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Russia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:59:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:12:45</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:45</Clock>
+</Time>
+<ResultPosition>13</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:11</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:42</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:35</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:25</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:06</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:42</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:52</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:19</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:01</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:50</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:18</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:29</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Troy De Haas</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Australia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:55:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:08:46</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:46</Clock>
+</Time>
+<ResultPosition>14</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:12</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:56</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:49</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:37</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:13</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:43</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:00</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:28</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:09</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:11:57</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:16</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:27</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Misha Mamleev</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Russia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">17:07:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:20:53</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:53</Clock>
+</Time>
+<ResultPosition>15</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:10</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:44</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:38</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:44</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:22</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:58</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:04</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:30</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:24</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:11</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:26</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:37</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Andrey Khramov</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Russia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:54:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:07:57</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:57</Clock>
+</Time>
+<ResultPosition>16</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:14</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:43</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:37</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:34</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:14</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:43</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:50</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:16</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:47</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:04</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:30</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:42</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Mårten Boström</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Finland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">17:00:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:13:57</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:57</Clock>
+</Time>
+<ResultPosition>17</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:38</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:10</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:05</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:03</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:44</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:21</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:26</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:51</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:26</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:15</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:32</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:43</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Grant Bluett</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Australia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">17:06:01</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:19:59</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:58</Clock>
+</Time>
+<ResultPosition>18</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:18</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:45</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:45</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:38</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:15</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:50</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:55</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:22</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:20</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:08</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:30</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:41</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Petteri Muukkonen</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Finland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:57:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:11:04</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:04</Clock>
+</Time>
+<ResultPosition>19</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:13</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:44</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:35</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:08</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:06:05</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:27</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:35</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:02</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:30</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:15</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:36</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:48</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Christian Nielsen</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Denmark</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:38:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:52:07</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:07</Clock>
+</Time>
+<ResultPosition>20</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:19</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:51</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:51</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:36</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:17</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:08</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:18</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:47</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:28</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:19</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:40</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:51</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Marian Davidik</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Slovakia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:33:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:47:07</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:07</Clock>
+</Time>
+<ResultPosition>21</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:15</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:52</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:50</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:39</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:19</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:54</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:06</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:35</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:12</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:07</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:41</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:52</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">David Brickhill-Jone</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Australia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:23:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:37:09</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:09</Clock>
+</Time>
+<ResultPosition>22</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:10</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:42</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:40</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:28</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:09</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:07:51</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:59</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:25</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:21</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:21</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:43</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:54</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Martins Sirmais</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Latvia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:46:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:00:12</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:12</Clock>
+</Time>
+<ResultPosition>23</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:17</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:47</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:41</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:38</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:29</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:08</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:26</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:53</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:26</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:15</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:46</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:57</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Ingo Horst</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Germany</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:45:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:59:12</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:12</Clock>
+</Time>
+<ResultPosition>24</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:12</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:42</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:43</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:33</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:39</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:23</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:29</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:54</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:28</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:22</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:45</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:13:56</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Klaus Schgaguler</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Italy</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:41:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:55:17</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:17</Clock>
+</Time>
+<ResultPosition>25</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:20</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:04</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:04</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:53</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:33</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:15</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:25</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:52</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:36</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:29</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:51</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:03</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Jon Duncan</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Great Britain</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:44:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:58:18</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:18</Clock>
+</Time>
+<ResultPosition>26</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:17</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:54</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:55</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:55</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:40</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:26</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:36</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:02</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:41</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:32</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:51</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:03</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Marek Nömm</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Estonia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:31:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:45:18</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:18</Clock>
+</Time>
+<ResultPosition>27</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:21</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:57</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:11</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:00</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:38</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:23</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:32</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:01</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:41</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:30</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:52</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:04</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Lukas Bartak</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Slovakia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:47:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:01:19</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:19</Clock>
+</Time>
+<ResultPosition>28</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:15</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:59</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:54</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:38</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:25</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:00</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:20</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:49</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:43</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:28</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:49</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:01</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Andreas Müller</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Switzerland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:25:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:39:21</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:21</Clock>
+</Time>
+<ResultPosition>29</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:16</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:50</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:46</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:31</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:41</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:17</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:29</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:59</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:31</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:23</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:52</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:05</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Edgaras Voveris</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Lithuania</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:42:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:56:22</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:22</Clock>
+</Time>
+<ResultPosition>30</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:20</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:55</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:52</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:20</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:59</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:26</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:37</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:05</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:38</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:31</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:55</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:06</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Graham Gristwood</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Great Britain</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:34:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:48:27</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:27</Clock>
+</Time>
+<ResultPosition>31</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:18</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:55</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:52</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:42</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:21</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:06</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:19</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:47</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:37</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:34</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:00</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:12</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Janis Krumins</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Latvia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:36:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:50:32</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:32</Clock>
+</Time>
+<ResultPosition>32</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:21</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:57</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:55</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:42</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:25</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:10</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:29</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:09:55</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:39</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:35</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:05</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:16</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Matthew Speake</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Great Britain</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:40:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:54:42</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:42</Clock>
+</Time>
+<ResultPosition>33</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:24</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:57</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:02</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:57</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:55</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:32</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:44</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:10</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:56</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:48</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:14</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:26</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Manuel Negrello</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Italy</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:39:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:53:44</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:44</Clock>
+</Time>
+<ResultPosition>34</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:17</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:48</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:49</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:40</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:38</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:25</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:39</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:05</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:56</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:49</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:17</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:28</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Aleksander Bernaciak</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Poland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:27:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:41:59</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:59</Clock>
+</Time>
+<ResultPosition>35</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:21</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:58</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:01</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:54</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:06:02</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:43</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:55</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:23</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:04</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:04</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:31</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:42</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Axel Fischer</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Germany</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:35:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:49:59</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:59</Clock>
+</Time>
+<ResultPosition>36</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:23</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:04</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:04</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:13</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:56</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:01</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:13</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:41</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:15</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:05</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:31</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:43</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Vyacheslav Mukhidino</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Ukraine</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:37:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:52:01</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:01</Clock>
+</Time>
+<ResultPosition>37</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:21</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:27</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:21</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:16</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:57</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:29</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:39</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:05</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:51</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:11</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:32</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:44</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Kristaps Jaudzems</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Latvia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:29:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:44:09</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:09</Clock>
+</Time>
+<ResultPosition>38</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:17</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:54</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:21</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:20</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:58</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:45</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:59</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:28</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:07</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:03</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:39</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:51</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Daisuke Yamaguchi</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Japan</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:28:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:43:15</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:15</Clock>
+</Time>
+<ResultPosition>39</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:21</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:54</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:54</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:52</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:06:06</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:41</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:54</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:24</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:04</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:08</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:46</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:14:56</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Nick Duca</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Canada</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:30:01</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:45:25</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:24</Clock>
+</Time>
+<ResultPosition>40</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:25</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:10</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:21</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:17</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:06:01</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:53</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:09</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:39</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:31</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:27</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:55</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:15:07</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Brian May</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>U.S.A</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:26:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:41:38</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:38</Clock>
+</Time>
+<ResultPosition>41</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:27</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:07</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:09</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:05</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:47</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:37</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:52</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:21</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:29</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:28</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:07</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:15:20</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Antti Harju</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Finland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">17:02:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:17:46</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:46</Clock>
+</Time>
+<ResultPosition>42</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:10</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:06</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:56</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:09</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:06:53</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:34</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:53</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:22</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:00</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:50</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:15</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:15:28</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Rob Jessop</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>New Zealand</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:24:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:40:23</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:16:23</Clock>
+</Time>
+<ResultPosition>43</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:30</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:11</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:12</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:11</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:06:43</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:31</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:49</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:17</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:15</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:13</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:51</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:16:06</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Pavlo Ushkvarok</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Ukraine</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">17:05:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">17:21:33</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:16:33</Clock>
+</Time>
+<ResultPosition>44</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:19</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:02:52</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:03:47</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:24</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:06:01</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:36</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:49</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:17</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:57</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:30</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:58</Time>
+</SplitTime>
+<SplitTime sequence="12">
+<Time timeFormat="HH:MM:SS">00:16:10</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Ivaylo Petrov</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Bulgaria</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:32:00</Clock>
+</StartTime>
+<CompetitorStatus value="MisPunch" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:21</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:01</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:03</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:03</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:05:43</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:33</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:51</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:21</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:02</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:42</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:12</Time>
+</SplitTime>
+<SplitTime sequence="12">
+</SplitTime>
+</Result>
+</PersonResult>
+</ClassResult>
+<ClassResult>
+<ClassShortName>Women Final</ClassShortName>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Simone Niggli-Luder</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Switzerland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:58:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:10:32</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:12:32</Clock>
+</Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:25</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:19</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:06</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:04:50</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:06:46</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:19</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:08:47</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:14</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:10:48</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:02</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:12:15</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Karolina A Höjsgaard</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Sweden</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:32:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:45:01</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:01</Clock>
+</Time>
+<ResultPosition>2</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:24</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:22</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:31</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:17</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:20</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:51</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:19</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:40</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:16</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:32</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:12:44</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Elisabeth Ingvaldsen</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Norway</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:42:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:55:19</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:19</Clock>
+</Time>
+<ResultPosition>3</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:31</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:52</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:51</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:32</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:30</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:10</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:40</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:06</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:40</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:49</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:02</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Dana Brozkova</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Czech Republic</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:49:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:02:21</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:21</Clock>
+</Time>
+<ResultPosition>4</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:29</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:27</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:25</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:27</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:30</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:03</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:31</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:55</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:41</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:52</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:03</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Anna Mårsell</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Sweden</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:55:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:08:26</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:26</Clock>
+</Time>
+<ResultPosition>5</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:31</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:28</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:23</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:25</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:28</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:05</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:39</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:03</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:42</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:53</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:07</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Emma Engstrand</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Sweden</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">16:00:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:13:27</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:27</Clock>
+</Time>
+<ResultPosition>6</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:25</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:41</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:35</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:20</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:24</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:02</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:33</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:00</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:37</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:56</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:09</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Ieva Sargautyte</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Lithuania</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:59:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:12:31</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:31</Clock>
+</Time>
+<ResultPosition>7</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:26</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:25</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:20</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:01</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:08</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:08:53</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:25</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:10:58</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:36</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:12:55</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:11</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Anne Margrethe Hausk</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Norway</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:50:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:03:37</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:37</Clock>
+</Time>
+<ResultPosition>8</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:34</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:46</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:42</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:27</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:36</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:16</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:46</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:14</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:11:50</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:07</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:19</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Vroni König-Salmi</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Switzerland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:56:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:09:45</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:45</Clock>
+</Time>
+<ResultPosition>9</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:30</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:24</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:31</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:20</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:31</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:14</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:47</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:18</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:01</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:14</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:26</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Line Hagman</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Norway</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:25:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:38:52</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:52</Clock>
+</Time>
+<ResultPosition>10</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:35</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:38</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:34</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:18</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:44</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:25</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:09:57</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:25</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:04</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:20</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:34</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Zsuzsa Fey</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Romania</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:41:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:54:56</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:13:56</Clock>
+</Time>
+<ResultPosition>11</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:34</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:36</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:32</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:27</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:51</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:31</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:03</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:28</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:08</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:22</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:37</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Inga Kazlauskaite</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Lithuania</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:44:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:58:00</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:00</Clock>
+</Time>
+<ResultPosition>12</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:33</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:34</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:37</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:28</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:53</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:38</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:09</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:34</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:12</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:30</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:43</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Dainora Alsauskaite</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Lithuania</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:51:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:05:06</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:06</Clock>
+</Time>
+<ResultPosition>13</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:27</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:28</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:08</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:51</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:05</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:43</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:14</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:45</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:23</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:35</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:49</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Sara Gemperle</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Switzerland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:52:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:06:07</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:07</Clock>
+</Time>
+<ResultPosition>14</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:33</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:32</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:34</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:21</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:50</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:31</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:02</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:41</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:19</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:34</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:48</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Satu Vesalainen</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Finland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:40:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:54:08</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:08</Clock>
+</Time>
+<ResultPosition>15</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:33</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:40</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:38</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:31</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:39</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:28</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:01</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:38</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:17</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:39</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:13:52</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Käthi Widler</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Switzerland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:48:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:02:22</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:22</Clock>
+</Time>
+<ResultPosition>16</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:39</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:55</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:57</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:45</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:07</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:56</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:29</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:58</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:38</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:55</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:07</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Riina Kuuselo</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Finland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:47:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:01:24</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:24</Clock>
+</Time>
+<ResultPosition>17</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:29</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:55</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:54</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:43</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:59</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:45</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:17</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:48</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:28</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:53</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:06</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Yulia Novikova</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Russia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:54:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:08:26</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:26</Clock>
+</Time>
+<ResultPosition>18</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:34</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:16</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:09</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:14</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:21</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:05</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:36</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:05</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:43</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:56</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:08</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Anke Xylander</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Germany</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:17:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:31:29</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:29</Clock>
+</Time>
+<ResultPosition>19</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:48</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:49</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:01</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:01</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:20</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:06</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:37</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:05</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:44</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:59</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:12</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Natasha Key</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Australia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:26:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:40:29</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:29</Clock>
+</Time>
+<ResultPosition>20</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:33</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:33</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:50</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:38</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:59</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:35</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:06</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:36</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:25</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:55</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:12</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Sarah Rollins</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Great Britain</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:37:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:51:31</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:31</Clock>
+</Time>
+<ResultPosition>21</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:38</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:56</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:09</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:54</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:09</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:51</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:23</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:48</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:38</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:59</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:14</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Kirti Rebane</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Estonia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:31:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:45:33</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:33</Clock>
+</Time>
+<ResultPosition>22</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:34</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:43</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:54</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:39</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:11</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:54</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:27</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:00</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:40</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:13:56</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:11</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Anna Gornicka-Antono</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Poland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:21:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:35:35</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:35</Clock>
+</Time>
+<ResultPosition>23</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:46</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:02</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:58</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:47</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:08</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:51</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:23</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:53</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:36</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:03</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:18</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Olga Belozerova</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Russia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:34:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:48:36</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:36</Clock>
+</Time>
+<ResultPosition>24</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:02:03</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:03</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:04</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:54</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:19</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:02</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:34</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:02</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:45</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:05</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:18</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Anu Annus</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Estonia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:53:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:07:37</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:37</Clock>
+</Time>
+<ResultPosition>25</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:31</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:41</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:39</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:53</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:13</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:00</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:32</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:09</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:46</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:06</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:19</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Helene Hausner</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Denmark</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:24:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:38:49</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:49</Clock>
+</Time>
+<ResultPosition>26</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:37</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:06</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:06</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:48</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:08</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:53</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:28</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:58</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:52</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:12</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:28</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Marta Sterbova</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Czech Republic</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:45:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:59:49</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:14:49</Clock>
+</Time>
+<ResultPosition>26</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:31</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:52</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:43</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:23</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:37</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:24</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:56</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:27</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:03</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:19</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:33</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Andrea Eisl</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Austria</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:29:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:44:03</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:03</Clock>
+</Time>
+<ResultPosition>28</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:35</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:45</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:56</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:46</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:26</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:09</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:39</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:13</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:02</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:31</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:45</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Hanny Allston</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Australia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:39:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:54:07</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:07</Clock>
+</Time>
+<ResultPosition>29</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:37</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:03</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:08</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:57</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:30</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:14</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:46</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:17</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:12:58</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:32</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:47</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Sandy Hott Johansen</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Canada</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:22:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:37:08</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:08</Clock>
+</Time>
+<ResultPosition>30</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:35</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:46</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:45</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:58</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:17</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:07</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:40</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:19</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:00</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:34</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:48</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Aija Skrastina</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Latvia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:27:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:42:10</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:10</Clock>
+</Time>
+<ResultPosition>31</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:48</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:50</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:53</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:48</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:28</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:20</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:55</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:31</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:10</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:37</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:51</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Natasha Korzhova</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Russia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:23:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:38:12</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:12</Clock>
+</Time>
+<ResultPosition>32</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:46</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:00</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:08</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:06</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:29</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:23</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:58</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:36</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:16</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:38</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:14:52</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Iliana Shandurkova</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Bulgaria</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:18:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:33:25</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:25</Clock>
+</Time>
+<ResultPosition>33</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:39</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:52</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:57</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:02</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:31</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:25</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:11:01</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:38</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:21</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:47</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:04</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Natalya Potopalska</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Ukraine</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:46:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">16:01:26</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:26</Clock>
+</Time>
+<ResultPosition>34</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:30</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:12</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:57</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:45</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:09:00</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:43</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:11:14</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:40</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:20</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:54</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:08</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Yvonne Fjordside</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Denmark</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:38:01</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:53:39</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:38</Clock>
+</Time>
+<ResultPosition>35</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:43</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:02</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:38</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:27</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:52</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:38</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:11:12</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:48</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:34</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:15:00</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:17</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Allison Jones</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Australia</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:20:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:35:55</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:55</Clock>
+</Time>
+<ResultPosition>36</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:33</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:59</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:01</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:26</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:09:08</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:59</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:11:33</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:13:12</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:55</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:15:18</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:34</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Zuzana Macuchova</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Czech Republic</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:43:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:58:59</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:15:59</Clock>
+</Time>
+<ResultPosition>37</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:35</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:10</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:06</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:52</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:09:20</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:11:07</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:11:39</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:13:18</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:55</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:15:24</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:39</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Victoriya Plokhenko</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Ukraine</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:36:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:52:03</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:16:03</Clock>
+</Time>
+<ResultPosition>38</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:55</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:15</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:14</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:22</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:08:47</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:10:48</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:11:21</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:13:13</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:56</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:15:27</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:44</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Meike Jaeger</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Germany</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:30:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:46:08</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:16:08</Clock>
+</Time>
+<ResultPosition>39</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:50</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:11</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:15</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:32</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:09:16</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:11:06</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:11:41</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:13:27</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:14:11</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:15:36</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:50</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Sakiko Miyauchi</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Japan</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:28:01</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:44:18</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:16:17</Clock>
+</Time>
+<ResultPosition>40</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:50</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:06</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:34</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:37</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:09:27</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:11:17</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:11:52</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:13:33</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:14:16</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:15:40</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:15:57</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Laura Scaravonati</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Italy</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:33:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:49:21</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:16:21</Clock>
+</Time>
+<ResultPosition>41</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:38</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:20</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:41</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:48</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:09:25</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:11:17</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:11:51</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:13:35</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:14:17</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:15:47</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:16:02</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Helen Bridle</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Great Britain</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:35:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:51:33</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:16:33</Clock>
+</Time>
+<ResultPosition>42</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:37</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:50</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:45</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:34</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:56</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:52</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:23</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:12:07</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:14:35</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:16:01</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:16:16</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Lyudmila Gotseva</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Bulgaria</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:16:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:32:40</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:16:40</Clock>
+</Time>
+<ResultPosition>43</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:38</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:04:18</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:25</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:28</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:09:24</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:11:14</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:11:47</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:13:28</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:14:11</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:15:56</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:16:18</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Marta Florkowska</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Poland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:19:00</Clock>
+</StartTime>
+<FinishTime>
+<Clock clockFormat="HH:MM:SS">15:35:49</Clock>
+</FinishTime>
+<Time>
+<Clock clockFormat="HH:MM:SS">00:16:49</Clock>
+</Time>
+<ResultPosition>44</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:35</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:53</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:05:07</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:06:43</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:09:55</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:11:47</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:12:25</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:14:05</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:14:48</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:16:13</Time>
+</SplitTime>
+<SplitTime sequence="11">
+<Time timeFormat="HH:MM:SS">00:16:29</Time>
+</SplitTime>
+</Result>
+</PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family />
+<Given sequence="1">Paula Haapakoski</Given>
+</PersonName>
+<PersonId></PersonId>
+</Person>
+<Club>
+<ClubId></ClubId>
+<Name>Finland</Name>
+<ShortName />
+<Country>
+<CountryId value="other" />
+</Country>
+</Club>
+<Result>
+<StartTime>
+<Clock clockFormat="HH:MM:SS">15:57:00</Clock>
+</StartTime>
+<CompetitorStatus value="MisPunch" />
+<SplitTime sequence="1">
+<Time timeFormat="HH:MM:SS">00:01:34</Time>
+</SplitTime>
+<SplitTime sequence="2">
+<Time timeFormat="HH:MM:SS">00:03:35</Time>
+</SplitTime>
+<SplitTime sequence="3">
+<Time timeFormat="HH:MM:SS">00:04:29</Time>
+</SplitTime>
+<SplitTime sequence="4">
+<Time timeFormat="HH:MM:SS">00:05:41</Time>
+</SplitTime>
+<SplitTime sequence="5">
+<Time timeFormat="HH:MM:SS">00:07:45</Time>
+</SplitTime>
+<SplitTime sequence="6">
+<Time timeFormat="HH:MM:SS">00:09:26</Time>
+</SplitTime>
+<SplitTime sequence="7">
+<Time timeFormat="HH:MM:SS">00:10:00</Time>
+</SplitTime>
+<SplitTime sequence="8">
+<Time timeFormat="HH:MM:SS">00:11:34</Time>
+</SplitTime>
+<SplitTime sequence="9">
+<Time timeFormat="HH:MM:SS">00:13:00</Time>
+</SplitTime>
+<SplitTime sequence="10">
+<Time timeFormat="HH:MM:SS">00:14:26</Time>
+</SplitTime>
+<SplitTime sequence="11">
+</SplitTime>
+</Result>
+</PersonResult>
+</ClassResult>
+<ModifyDate>
+<Date dateFormat="YYYY-MM-DD">2006-02-21</Date>
+<Clock clockFormat="HH:MM:SS">12:41:14</Clock>
+</ModifyDate>
+</ResultList>
